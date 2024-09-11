@@ -7099,4 +7099,1065 @@ CUT WINDOW IN 9 5/8" CASING USING WHIPSTOCK. TOP OF WINDOW = 2202 M MD  - BOTTOM
                                                                                                                     RIH TO GET BHA BELOW BOP.
                                                                                                   TEST BOP FUNCTIONS FROM YELLOW POD. ALL OK.
                                                                                                CONTINUED TO SLIP AND CUT 33,5M DRILLING LINE.
-                                                                                               FLOW CHECK, OK. PUMP SLUG. POOH TO CHANGE MWD.
+                                                                                               FLOW CHECK, OK. PUMP SLUG. POOH TO CHANGE MWD.                                                                                            FLOWCHECKED, PUMPED SLUG & POOH WITH MILLING BHA.
+                                      BROKE CORE ON 3RD ATTEMPT HOLDING 16T OVER PULL. PUMPED AND ROTATED SLOWLY WHILE PULLING BACK TO 3820M.
+                                                                                                                         LAID DOWN 3 1/2" DP.
+                                                                                                               PUMPED SLUG AND POOH TO 1387M.
+                                                                                                                               POOH TO 2205M.
+                                                                                      POOH TO 2325M. MADE UP CMT STAND W/VALVES AND CMT LINE.
+                                                            CONTINUED RIH TO 2425M. WASHED SECTION FROM 2205M TO 2275M PRIOR TO SET CMT PLUG.
+                 CONTINUED CIRCULATION THROUG OPEN CHOKE. GAS READING DECLINED TO 9% OPENED WELL AND CIRC LONG WAY UNTIL GAS STABILIZED AGAIN
+              FLOW CHECKED WELL, STATIC CONDITION. START CIRC 10 MIN AND GOT 38% GAS IN RETURNS. CLOSE ANNULAR AND INVESTIGATED FROZEN DP PRE
+                                                                                                      COMPLETED TIH WITH WHIPSTOCK TO 2170 M.
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                                                                      SSTT WOULDN'T RE-LATCH DURING FUNCTION TEST. LD SSTT & PU BACK-UP SSTT.
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                                                                                              DRILLED/ORIENTED 8 1/2" HOLE FROM 2653 - 2711 M
+                                                                                               DRILLED/ORIENTED 8 1/2" HOLE FROM 2405-2653 M.
+                                                                                              DRILLED/ORIENTED 8 1/2" HOLE FROM 2311 - 2405 M
+                                                                                                      CONTINUED POOH WITH 3 1/2" DP TO 170 M.
+                                                                                                              POOH FROM 170 M WITH 3 1/2" DP.
+                        RIH WITH 4 STDS OF 3 1/2" DP BELOW BOP TEST TOOL. OD ON XO SUB BELOW TEST TOOL WAS TOO BIG TO ENTER 7" CSG. TEST PLUG
+                                       UNSCREWED EXTENSION SUB FROM BOP TEST TOOL. PU 9JTS X 5" HWDP FROM DECK. RIH AND SEATED BOP TEST TOOL.
+                                                                                CUT CORE NO 4 FROM 3908,5 TO 3935,5M. MAX GAS FROM CORING 9%.
+                                                                                                 WASH AND ROTATE FROM 3820 TO BTM AT 3908,5M.
+                                                                                                         RIH TO 3820M. BROKE CIRC EACH 1000M.
+                                                                                SERVICED CORE BARREL AND MADE UP COREBARREL WITH INNERBARREL.
+                                                                                             DRILLED/ORIENTED 8 1/2" HOLE FROM 2202 - 2311 M.
+                                                                                      BROKE CIRCULATION. WASHED DOWN FROM 2190 - 2202 M / TD.
+               RIH SLOWLY-NO ROTATION OR CIRCULATION-FROM 2161 - 2190 M. WINDOW IN CASING FROM 2178 - 2183 M. MADE CHECK TRIP TO 2175 M; NO P
+                                                                                                                          ORIENTED TOOL-FACE.
+                                                                                                                  CONTINUED TO TIH TO 2161 M.
+                                                                                     ELECTRICAL PROBLEM WITH TOP DRIVE SYSTEM; REPAIRED SAME.
+                                                                                                                                S/C DRILLINE.
+                                                                                      MU DRILLING BHA & TIH TO 430 M WITH NEW 8 1/2" PDC BIT.
+                                                                                                     FINISHED HANDLING WHIPSTOCK/MILLING BHA.
+                                                                                                                     POOH TO MU DRILLING BHA.
+                       TESTED BOP ON BLUE POD. TESTED ALL VALVES AND RAMS TO 20/345 BAR. TESTED ANNULAR TO 20/241 BAR. FUNCTION TESTED BOP ON
+                  FINISHED DRILLING TO 2202 M - TOTAL OF 19 M OF FORMATION DRILLED BEYOND WINDOW'S BOTTOM. PU & SO THROUGH WINDOW 5 TIMES - N
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                                LAUNCHED LOCOMOTIVE INTO DP, INSTALLED SIDE ENTRY SUB. RAN/PUMPED LOCOMOTIVE INSIDE 3-1/2" DP ON ATLAS CABLE.
+          M/U SCHLUMB. MDT TOOL STRING TO 3-1/2" DP AND RIH, SPEED: 2 MIN/STD. FILLED PIPE EVERY 3. STD, BROKE CIRC. EVETY 10. STD. RIH TO 36
+                         WORKED TO SOLVE CONTACT FAILURE IN SCHLUMB. MDT TOOL STRING. FOUND CONTACT FAILURE ON CHAMBRE MODULE. REPAIRED SAME.
+                                                                                 WORKED TO SOLVE CONTACT FAILURE IN SCHLUMB. MDT TOOL STRING.
+                                   CONNECTED CABLE TO SCHLUMB. MDT TOOL STRING. TESTED SIGNALS. GOT INDIC. OF CONTACT FAILURE IN TOOL STRING.
+                                                                                                                M/U SCHLUMB. MDT TOOL STRING.
+                                   FLOW CHECKED OK. PUMP SLUG AND POOH. FLOW CHECKED INSIDE CSG WINDOW.OK CURRENT DEPTH AT REPORT TIME 1412M.
+                                                   CONTINUED POOH WITH CORE NO 3. FLOW CHECKED AT CSG WINDOW AND BEFORE PULLING BHA INTO BOP.
+                         RETRIEVED CORE NO 3. INITIAL TOP OF CORE HAD 80 PPM H2S GAS CONTENT WHICH DISPERSED, CHECKS WHILE RETRIEVING WERE 10
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                                                                           POOH WITH TEST TOOL. FUNCTION TESTED ACCUSTIC SYSTEM AND SHEARRAM.
+                                                                                   TESTED IBOPS ON TOPDRIVE AND STAB-IN VALVES TO 20/345 BAR.
+                                                              M/U BIT AND BHA AND RIH FOR WIPER TRIP TO CONDITION HOLE FOR RUNNING 7" CASING.
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                                                                                                       OPERATION SUSPENDED DUE TO OFS STRIKE.
+                                                                                                         SLUGGED PIPE AND POOH WITH MDT TOOL.
+                                                                                                               PUMPED SLUG AND POOH TO 3360M.
+                                                                                        PULLED LOCOMOTIVE TO SURFACE. CHECKED OUT CABLE - OK.
+                                                    CHAMBER VALVE ON MDT NOT OPERATING. ATTEMPTED TO TROUBLESHOOT AND REPAIR WITHOUT SUCCESS.
+                                          OPERATIONS SUSPENDED DUE TO INDUSTRIAL ACTION. MEANWHILE CIRCULATED AT SLOW RATE - 330 LPM, 15 BAR.
+                                                     CONTINUED RIH WITH LOGGING TOOLS ON DRILL PIPE TO 2168M (BOTTOM OF LOGGING TOOL STRING).
+                                                                             CONTINUED RIH WITH LOGGING TOOLS ON DRILL PIPE TO CASING WINDOW.
+                                                                                                                        FINISHED TESTING MDT.
+                                                                                                              PUMPED AND ROTATED UP TO 3990M.
+                                                                                  TESTED SCHLUMB. MDT SIGNALS THROUGH ATLAS CABLE. GOOD TEST.
+                                                                       CONT. RIH W/SCHLUMB. MDT TOOL ASSY. ON 3-/2" DP FROM 1960 M TO 3604 M.
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                                                                                   CONTINUED TO ASSEMBLE AND ADJUST LEVER FOR UIBOP ACTUATOR.
+                                                                                CONTINUED TEST ON UIBOP AND LIBOP TO 34/345 BAR 5/10 MIN, OK.
+                                                                          CHANGED MWD. SET NAVIDRILL AKO TO 0 DEGR. LOAD MWD AND MADE UP BIT.
+                                                                                                       START CUT CORE NO 2 FROM 3854 - 3858M.
+                                                                       REAM TO BTM 3854M. 2M HARD FILL. TAG BTM 3 TIMES AND SPACED OUT STRING
+                                                                                                          CONTINUED RIH TO 3830M. BREAK CIRC.
+                                                                                                            SLIP AND CUT 29,3M DRILLING LINE.
+                                                                                          RIH TO CSG WINDOW AT 2161M. FILL STRING EACH 1000M.
+                          LAUNCHED LOCOMOTIVE INSIDE 3-1/2" DP, INSTALLED SIDE-ENTRY SUB. RAN/PUMPED LOCOMOTIVE INSIDE DP ON ATLAS CABLE. LAT
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                                                               CUTTED CORE NO 7 FROM 3990M TO 4017M. BROKE CORE WITH NO SIGNIFICANT OVERPULL.
+                                                                                                                      CONTINUED RIH TO 3924M.
+                                                                CONTINUED RIH FOR WIPER TRIP TO CONDITION HOLE AND MUD FOR RUNNING 7" CASING.
+                                                                                                               CUT AND SLIPPED DRILLING LINE.
+                                                                                                                                FINISHED RIH.
+                                                                                                                                  CIRCULATED.
+                                                                                                              BACKREAMED FROM 4047M TO 3800M.
+                       CIRCULATED TO CONDITION MUD FOR RUNNING 7" CASING - LOWERED AND EVENED MUD WEIGHT TO 1.55 SG FROM HIGH SPOTS OF 1.58 S
+                                                                                                                       POOH TO RUN 7" CASING.
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+   FLOW CHECKED, PUMPED SLUG & POOH WITH DRILLING BHA. BIT WAS DAMAGED - 6 OUT OF 9 BLADES ON BIT WERE DAMAGED/BROKEN. NO OTHER DAMAGE TO BHA
+                   PUMPED AND ROTATED FROM 3924M TO 3933M. REAMED TIGHT SPOT AT 3933M TO 3936M. FREQUENTLY STALLED STRING AND HAD MAX 90T OVE
+                                                                                         CONTINUED TO TIH TO 2193 M WHILE PULLING YELLOW POD.
+                                                                                                            MU DRILLING BHA; MOTOR TESTED OK.
+                                                                                                               COMPLETED LD MILLING ASSEMBLY.
+                                                                                                     CONTINUED TO POOH WITH MILLING ASSEMBLY.
+                                                                                         FLOW CHECKED, PUMPED SLUG & POOH TO PU DRILLING BHA.
+                                    CONTINUED POOH. FLOW CHECKED, OK, BEFORE BHA ENTERED BOP. HELD RESTRICTED SPEED FROM 400M AND TO SURFACE.
+                                                                                                       RECOVERED CORE NO 6. 100.5 % RECOVERY.
+                                                                                   MADE UP NEW COREHEAD AND INNERBARREL, SERVICED COREBARREL.
+                                                                                                                 RIH WITH COREBARREL TO 600M.
+                                                                                              CONTINUED RIH TO CSG WINDOW. BROKE CIRCULATION.
+                                                                                                           SLIP AND CUT 36,6 M DRILLING LINE.
+                                                                                                                       TIH WITH BHA TO 800 M.
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                                                                                  RAN ATLAS LOG NO. 2 B: MAC-GR. IH: 1430 HRS. OOH: 2344 HRS.
+                                                                                                     R/U ATLAS WIRELINE. M/U MAC TOOL STRING.
+                                                                                       POOH W/ 5-7/8" BIT FROM 1630 M. RACKED BHA IN DERRICK.
+                                                                                FLUSHED KILL-/CHOKE LINES. CIRC. TO CONDITION MUD (1300 LPM).
+                                                                                                    POOH W/ 5-7/8" BIT FROM 3200 M TO 1630 M.
+                                                                                                                  POOH FROM 4019 M TO 3200 M.
+                                        CIRCULATED TO CONDITION MUD, 820 LPM / 300 BAR. HAD PROBLEMS W/ UNSTABLE MW. CIRC. UNTIL EVEN 1,47 SG
+                                                                  OPENED SHEARRAM. SCREWED INTO HANG-OFF TOOL. PULLED HANG-OFF TOOL OVER BOP.
+                                                                                                RIH WITH OPEN ENDED 5" DP TO TOP OF SHEARRAM.
+                                                                                                   LAID OUT DIVERTER RUNNING TOOL AND SPIDER.
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                                                                                                       OPERATION SUSPENDED DUE TO OFS STRIKE.
+                                  CLEARED RIG FLOOR. MU CEMENTING STAND & TESTED TIW + LO-TORQ VALVES TO 345 BAR FOR 5 MINUTES. STAND SAME BA
+                     SLIP AND CUT DRILLING LINE AND PRECAUTIONARY CHANGE WASH PIPE ON TOP DRIVE. TRANSFERED RIG TO WELL 15/9-19B AT 2200 HRS.
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                                                                                                  CONTINUED CIRCULATING WHILE RU TO RUN GYRO.
+         INCREASED AKO MOTOR FROM 1,2 DEGREES TO 1,5 DEGREES & MU INSERT BIT FOR DIRECTIONAL REASON/CONTROL. TIH TO 2768 M -TD. NOTE-TOOK 5 M
+            POOH FOR BHA CHANGE DUE TO DIRECTIONAL PROBLEM - NOT ENOUGH TURN TO RIGHT IN AZIMUTH. NOTE-NO PROBLEM IN TOH THROUGH 9 5/8" CASIN
+                                                 DRILLED/ORIENTED 8 1/2" HOLE FROM 2711 - 2768 M. HAD PROBLEMS TURNING WELLPATH TO THE RIGHT.
+                                                                                                                                L/D MDT TOOL.
+              PUMP OUT OF HOLE TO 3820M. HAD 45 T OVER PULL AT CONNECTION AT 3880M. ROTATE STRING AND HAD NO EXCESSIVE TORQUE TO BREAK ROTATI
+                                                                                        ROTATE AND WASH TO BTM AT 3881,5M. SPACED OUT STRING.
+                                                                                                        OPERATION SUSPENDED DUE TO OFS STRIKE
+                                                                                                                      CONTINUED RIH TO 3876M.
+                                                                                                       OPERATION SUSPENDED DUE TO OFS STRIKE.
+                                                                           SLIPPED / CUT DRILLING LINE WHILE TROUBLE SHOOTING ON ATLAS EQUIP.
+                                                                                                CONTINUED P/U AND RIH WITH 3 1/2" DRILL PIPE.
+                                                                                                 COMPLETED PU & RIH WITH 3 1/2" DP TO 2530 M.
+                         TIH TO WELLHEAD WITH HANG-OFF-TOOL.SECURED WELL WITH MIDDLE 5" PIPE RAMS. BACK-OUT OF H-O-T. POOH WITH LANDING STRIN
+                                                                                        CLOSED BLIND SHEAR RAMS. TESTED 7" CASING TO 345 BAR.
+                                                                           DISPLACED RISER TO SEAWATER. RU SPIDER & MU DIVERTER RUNNING TOOL.
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                    ATLAS POOH WITH WET CONNECTOR TO SIDE ENTRY SUB AND SHEARED OUT OF ROPE SOCKET WITH 5.4 MT PULL. ATLAS FINISHED POOH WITH
+            PIPE STUCK WHILE MAKING UP TOP DRIVE. WORKED PIPE WITH NO SUCCESS. ATLAS SHEARED CLAMP ON SIDE ENTRY SUB AND POOH WITH WIRELINE I
+                                                                                                                FINISHED REPAIRING TOP DRIVE.
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                     FLOW CHECKED , OK. PUMPED SLUG AND POOH TO 1400M AT 2400 HRS. HAD FLICKERS ON WEIGHT INDICATOR AT 2725 AND 2472M, MAX 22
+                                                                      CUTTED CORE NO 6 FROM 3962,5M TO 3990M. BROKE CORE WITH 10 T OVER PULL.
+                                                                                                      WASHED AND ROTATED FROM 3905M TO 3962M.
+                                                                                  RIH WITH COREBARREL TO 3905M. BROKE CIRCULATION EACH 1000M.
+                                                                                       MADE UP COREHEAD AND INNERBARREL, SERVICED COREBARREL.
+                                                                    RECOVERED CORE NO 5. 102 % RECOVERY. NO H2S GAS DETECTED FROM COREBARREL.
+                             CONTINUED POOH. FLOW CHECKED AT CSG WINDOW AND BEFORE BHA ENTERED BOP. CHECKED COREBARREL FOR H2S GAS, NO GAS PR
+                                                                                                             FLOWED/TESTED WELL ON MAIN FLOW.
+                                                                                                     FLOWED/TESTED WELL - ON MAIN FLOW PERIOD
+                     COMPLETED POOH WITH EZSV MECHANICAL SETTING TOOL. PERFORMED WEEKLY FUNCTION TEST OF BOPS WHEN SETTING TOOL LOCATEDØ480M.
+                                      RU ATLAS ELECTRIC LINE. RIH & PERFORATED DST #1A ZONE FORM 3885,5 - 3888,5 M AT 6 SPF. POOH & RD ATLAS.
+                                                                                                              PUMPED AND ROTATED UP TO 3820M.
+                                                     BREAK CH AND CHANGED ALL STABS FROM 8 15/16" TO 8 3/8" ON CORE BARREL MADE UP CORE HEAD.
+                                                                                          RIH TO CSG WINDOW AT 2161M. BREAK CIRC EACH 1000 M.
+                                                                       RETRIVED CORE NO 2, 100 % RECOVERY. MAX 5 PPM H2S WHEN RETRIVING CORE.
+                                                     OPERATIONS SUSPENDED DUE TO INDUSTRIAL ACTION. CONTINUED CIRCULATING AT 330 LPM, 15 BAR.
+                                                                                  RIH WITH COREBARREL TO 3847M. BROKE CIRCULATION EACH 1000M.
+                                                                                                    WASHED AND ROTATED FROM 3847M TO 3935,5M.
+                                                                     CUT CORE NO 5 FROM 3935,5M TO 3962,5M. BROKE CORE WITH 11 TON OVER PULL.
+                                                                                                              PUMPED AND ROTATED UP TO 3820M.
+                                                                                 FLOW CHECKED, OK. PUMPED SLUG AND POOH TO 3600M AT 2400 HRS.
+                                                                                                     COMPLETED POOH.INSERT BIT WAS CORED-OUT.
+                                                                                                  MU SLICK BHA FOR CHECK TRIP & TIH TO 752 M.
+                                                                                                                  CONTINUED TO TIH TO 2081 M.
+               ESTABLISHED CIRC AT 2500 LPM.WASHED DOWN TO CASING WINDOW. RAN THROUGH WINDOW & PU THROUGH WINDOW WITHOUT PUMPING - NO PROBLEM
+                                                                OPERATIONS SUSPENDED DUE TO INDUSTRIAL ACTION. CIRCULATED AT 330 LPM, 15 BAR.
+    CONTINUED TIH; TOOK WEIGHT AT 2207 M. REAMED FROM 2207 - 2245 M; TIGHT HOLE FROM 2207 - 2226 M. HAD TENDENCY OF PACKING-OFF. 16300 NM= MA
+                                                                                         FLOW CHECKED, PUMPED SLUG & POOH TO MU DRILLING BHA.
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                                                                                                        OPERATION SUSPENDED DUE TO OFS STRIKE
+  M/U AND RIH W/ 5-7/8" BIT AND 7" CSG SCRAPER FOR MUD CONDTION/ CLENAUP RUN. BROKE CIRC. EVERY 500 M. CIRC. TO CONDITION MUD. RECORDED TORQU
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                                                                                                           MU MILLING BHA & TIH TO WHIPSTOCK.
+                                                MILLED FROM 2202-2205 M. DECREASE IN ROP - NOT MAKING ANY PROGRESS IN MILLING THROUGH WINDOW.
+                                                                                                 TIH TO 2187 M WITH 9 5/8" BRIDGE PLUG ON DP.
+                                                       SET BRIDGE PLUG AT 2187 M L.A.T. CONFIRMED SETTING BY SLACKING-OFF 10 MT DOWN ON PLUG.
+                                                                                             FLOWCHECKED, PUMPED SLUG & POOH WITH EZSV M.S.T.
+                                                                CONTINUED TIH; WASHED DOWN LAST 38 M TO TD - 2783 M. 0,5 M OF FILL ON BOTTOM.
+                                                                                           M/UP COREBARREL AND COREHEAD. SERVICED COREBARREL.
+                                 R/U WIRELINE SIDE ENTRY SUB AND RIH WITH WET CONNECTOR. ENGAGED CONNECTOR. COMMUNICATION AND PULL TESTED OK.
+                                                                                                                 CIRCULATED TO CONDITION MUD.
+               CONTINUED POOH WITH CORE NO 2. REDUCED SPEED LAST 400M. HELD SAFETY BRIEF BEFORE PULL CORE BARREL TO DRILL FLOOR. HAD 20 PPM H
+                                                                POOH. FLOW CHECKED INSIDE CSG WINDOW, OK. CURRENT DEPTH AT REPORT TIME, 780M.
+                                                                                        FLOW CHECKED, OK. LAID DOWN SPACER PUP JT. PUMP SLUG.
+                        R/U ATLAS AND RIH WITH ATLAS PERFORATING GUNS ON WIRELINE. CORRELATED GUN DEPTH AND FIRED GUNS - GOOD INDICATION OF D
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                                                                                                   POOH WITH ATLAS WIRELINE PERFORATING GUNS.
+                     RIH WITH BOP TEST TOOL. TESTED BOP TO 20/345 BAR (UAP TO 20/240 BAR) FOR 5/10 MINUTES ON YELLOW POD. FUNCTIONED TESTED B
+                                                                                            TESTED TDS IBOP'S TO 20/345 BAR FOR 5/10 MINUTES.
+                                                                                                      P/U 7" EZSV RETAINER AND RIH TO 2200 M.
+                                                                                                        COMPLETED TIH WITH 7" EZSV TO 3940 M.
+                                                                                               RIH WITH LOGGING TOOLS ON DRILL PIPE TO 3640M.
+                    CROWN-MOUNTED-COMPENSATOR WOULDN'T UNLOCK - CMC HYDRAULIC VALVE WAS STUCK IN CLOSED POSITION. TROUBLESHOOTED SYSTEM UNTIL
+                                                   RIH WITH MWS BOTTOM HOLE SAMPLING TOOL. SAMPLE CHAMBER FAILED TO OPEN. POOH WITH WIRELINE.
+                                                                                              PRESSURE TESTED EZSV TO 345 BAR FOR 15 MINUTES.
+                                                                                                      POOH WITH EZSV MECHANICAL SETTING TOOL.
+             CLOSED LUBRICATOR VALVES & BLED DOWN ABOVE VALVES TO 0 BAR. RU PERFORATING BAR TOOLSTRING & ELECTRIC LINE TO PERFORATE ZONE #1B.
+       RIH WITH ELECTRIC LINE + BAR. PERFORATED VIA TCP GUNS - USING BAR TO DETONATE - Ø 1513 HRS. PERFORATED FROM 3826 - 3865 M. POOH WITH B
+                                                                                                RD ELECTRIC LINE, LUBRICATOR & WIRELINE BOPS.
+                                         FLOW CHECKED, OK. PUMP SLUG AND POOH. FLOW CHECKED INSIDE CSG WINDOW, OK. CURRENT DEPTH AT REPORT TI
+                                                                             CONTINUED TO POOH. FLOW CHECKED BEFORE PULLING BHA INTO BOP, OK.
+                                                                       RETRIEVED CORE NO 4. 96,3 % RECOVERY. NO H2S GAS PRESENT IN COREBARREL
+                                                                                   MADE UP NEW COREHEAD AND INNERBARREL. SERVICED COREBARREL.
+    ATTEMPTED TO SET EZSV AT 3940 M - NO SUCCESS IN SETTING. ATTEMPTED TO SET AT 3945 M - NO SUCCESS. FINALLY SET EZSV AT 3947 M - DIDN'T SEE
+                                                                                                          RETRIEVED CORE NO 1, 95 % RECOVERY.
+                                MADE UP MULESHOE ON 3 1/2" DP AND RIH TO 2210M. BROKE CIRC AND GOT 12% GAS IN RETURN AT START OF CIRCULATION.
+                         FLOW CHECK, OK. PUMP SLUG AND POOH. HAD 15T OVER PULL AT 3278 AND 3269M. FLOW CHECKED INSIDE CSG WINDOW, OK. CONT PO
+        FLOW CHECK 10 MIN, OK. PUMP SLUG. POOH. WELL SLICK. FLOW CHECK INSIDE SHOE AND BEFORE BHA ENTERED BOP. L/DOWN 1 DC, 2 STABILIZERS AND
+                                                                                                                 CONTINUED RUNNING 7" CASING.
+                                                                                                                 CONTINUED RUNNING 7" CASING.
+                                                            M/U CASING HANGER. R/D CASING HANDLING TOOLS AND R/U TO RUN CASING ON DRILL PIPE.
+                         RIH WITH CASING ON HWDP RUNNING STRING. LANDED CASING AND CHECKED DATUM LINE - OK. TOTAL MUD LOSSES RUNNING CASING -
+                                       CIRCULATED CASING. 20% - 30% MUD RETURNS WHILE CIRCULATING AT 330 LPM - 475 LPM. LOST 26 M3 MUD TOTAL.
+                              CONTINUED POOH TO SURFACE. PULLED LAST 400M WITH RESTRICTED SPEED, 6 MIN/STAND. FLOW CHECKED BEFORE PULLED BHA.
+                                                                                                   CONTINUED PERFORMING SHUT-IN BUILD-UP TEST
+                                                                   DRILLED 8 1/2" HOLE FROM 3573M TO 3632M. UNABLE TO STEER TO ACHIVE TARGET.
+                                                                                                   CONTINUED PERFORMING SHUT-IN BUILD-UP TEST
+                                                                       PUMPED SLUG. POOH WITH CORE NO 7. CURRENT DEPTH AT REPORT TIME 2546 M.
+                                                    CONTINUED POOH WITH CORE NO 7. FLOW CHECKED IN CSG WINDOW AND BEFORE BHA ENTERED BOP, OK.
+                                                                       RECOVERED CORE NO 7. 98,9 % RECOVERY. NO H2S GAS PRESENT IN COREBARREL
+                                                                                                      SERVICE BREAK AND LAID DOWN COREBARREL.
+                                                                                        MADE UP BOP TEST PLUG AND INSTALLED SAME IN WELLHEAD.
+                                                                     TESTED BOP AND PLUG TO 34 BAR/5 MIN AND 345 BAR/10 MIN. USED YELLOW POD.
+            CONTINUED TEST BOP FROM YELLOW POD. TESTED ALL VALVES AND PIPE RAMS TO 34/345 BAR FOR 5/10 MIN. TESTED BOTH ANNULARS TO 34/241 BA
+                        CHANGED OUT UIBOP ON TDS. RENEWED SAVER SUB AND NEW PIPEHANDLER HANGER UIBOP ACTUATOR, CRANK LEVER, ACTUATOR ROLLERS.
+                                                                                                  CONTINUED PUMPING AND ROTATION UP TO 3820M.
+                                                                                                                          R/U ATLAS WIRELINE.
+                   DRILLED 8 1/2'' HOLE FROM 3552 - 3573 M. UNABLE TO STEER DUE TO HANGING UP ON STABILIZERS AND FREQUENT STALLING  PROBLEMS.
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                                                                   FLOW CHECK, OK CONTINUE POOH AND L/DOWN MWD AND BIT. START RELOAD NEW MWD.
+        REAMED WINDOW. AFTER APPROXIMATELY 20 TIMES, STILL UNABLE TO GO DOWN THROUGH WINDOW WITHOUT ROTATING - BASED ON USING MAXIMUM OF 12 M
+                                           DRILLED/MILLED NEW FORMATION FROM 2207 - 2213 M. PUMPED 5 M3 HI-VIS PILL WHILE DRILLING AT 2208 M.
+CUT WINDOW IN 9 5/8" CASING USING WHIPSTOCK. TOP OF WINDOW = 2202 M MD  - BOTTOM OF WINDOW = 2207 M MD. PUMPED 5 M3 HI-VIS PILL WHILE MILLING
+                                                                                       ORIENTED WHIPSTOCK USING MWD. SET ANCHOR ON WHIPSTOCK.
+                                      CONTINUED TIH WITH  WINDOWMASTER WHIPSTOCK & MILLING ASSEMBLY. TAGGED 9 5/8" BRIDGE-PLUG AT 2211 M DPM.
+                                                   MU BAKER WINDOWMASTER WHIPSTOCK + MILLING ASSEMBLY & ASSOCIATED BHA. CONTINUE TIH WITH DP.
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                                                                                                                               RAN 7" CASING.
+                                                                                                                               RAN 7" CASING.
+                                                                                             HYDRAULIC POWER UNIT FOR CASING TONG OVERHEATED.
+                                                                                                                               RAN 7" CASING.
+                                                                                                   FINISHED R/U WEATHERFORD TO RUN 7" CASING.
+                                                       R/U FRANK'S FC-1 CASING FILLUP AND CIRCULATING TOOL. R/U WEATHERFORD CASING EQUIPMENT.
+                               M/U CASING HANGER WITH SEAL ASSEMBLY TO TYPE ST CASING HANGER RUNNING TOOL C/W SSR PLUGS. M/U HALLIBURTON CEME
+                                                                                                             FINISHED POOH. L/D DRILLING JAR.
+                                                                                                     DRILLED 8 1/2'' HOLE FROM 3550 - 3552 M.
+                                                CASING TONG NOT WORKING - PROBLEM WITH HYDRAULIC PRESSURE/VOLUME SUPPLY. CHANGED POWER UNITS.
+                     HELD PRE-JOB MEETING WITH ALL PERSONNEL INVOLVED. RU TO RUN SHOOTING NIPPLE ON 7" CASING. PU XO SUB FOR WIRELINE STUFFIN
+                                                                    FLOWCHECKED, PUMPED SLUG, AND POOH. DUMPED MWD MEMORY. L/D MWD AND MOTOR.
+                                       CONTINUED DRILLING FROM 4039M TO 4087M. NORMAL AMOUNT OF CUTTINGS IN RETURNS WITH APPROX 5% SMALL SIZE
+                                                                                         INSTALLED WIRELINE LUBRICATOR AND TESTED TO 345 BAR.
+                                         RIG HEAVE LESS THAN 2M. DISCONNECTED WIRELINE LUBRICATOR AND CHANGED OUT BOTTOM HOLE SAMPLING TOOLS.
+                                                                                                      DRILLED 8 1/2" HOLE FROM 3379 - 3390 M.
+                                                                                                     DRILLED 8 1/2'' HOLE FROM 3390 - 3494 M.
+                                                                                                     DRILLED 8 1/2'' HOLE FROM 3494 - 3550 M.
+            CONT RIH WITH CORING BHA. FILL PIPE AT CSG WINDOW. RIH PASS WINDOW AND PULL BACK INTO CSG WITH COREBARREL, OK. CONT RIH TO 3212M.
+              CONTINUE RIH. STOOD UP WITH 15T AT 3287M. REAMED OBSTRUCTION. CONT RIH AND STODD UP AT 3303M. CURRENTLY REAMING AWAY OBSTRUCTIO
+                                                                              WASH AND REAM TIGHT HOLE FROM 3303 - 3820M WITH COREBARREL BHA.
+                                                               RIH WITH MWS BOTTOM HOLE SAMPLING TOOL/GR/CCL AND OBTAINED WATER SAMPLE. POOH.
+                                                                                       CONTINUED WASH AND REAM TIGHT HOLE FROM 3820M - 3837M.
+                                                                 CONTINUED DRILLING F/3752 - 3783M. USED CONSTANT PARAMETERS TO SPOT DRILLING
+                                                        MU NEW PDC BIT WITH STABILIZED DRILLING BHA; PU NEW MOTOR DUE TO WEAR. TIH TO 1270 M.
+                                                                                                                              COMPLETED POOH.
+                                                                                                           POOH TO 2253 FOR BIT & BHA CHANGE.
+                                                                       CIRCULATED HOLE CLEAN & BOOSTED RISER. SHORT TRIP GAS=4,38% CORRECTED.
+                                                          MADE SHORT TRIP TO 2707 M & RIH TO TD - WASHED DOWN LAST STAND TO TD - NO PROBLEMS.
+                                                                                           DRILLED 8 1/2" HOLE FROM 3052 - 3057 M / ROTATING.
+                                                                                       DRILLED AND ORIENTED 8 1/2" HOLE FROM 2970 M - 3052 M.
+                                                                         DRILLED 8 1/2" HOLE FROM 3783M - 3799M. DRILLING BREAK 3796 - 3799M.
+                                                                                                     DRILLED 8 1/2" HOLE FROM 4087M TO 4131M.
+                                                                                                                    L/D SAMPLING TOOL/GR/CCL.
+                                                                                                       CONTINUED DRILLING FROM 3799M - 3810M.
+                                                                                         DRILLED AND ORIENTED 8 1/2" HOLE FROM 2783 - 2970 M.
+                RIH TO 2160M. ESTABLISHED CIRC WITH 2500 LPM AND ORIENTED TOOLFACE. RUN THROUGH WINDOW WITH NO ROTATION OR CIRCULATION AND CO
+                                                                   MU NEW INSERT BIT - EHP43AFLDK - & MU SLICK DRILLING BHA WITH MOTOR & MWD.
+                                                                                      CONTINUED POOH - MAXIMUM DRAG THROUGH WINDOW = 2,25 MT.
+                                                                                                       CONTINUED DRILLING FROM 3724M - 3752M.
+                                                                                  CONTINUED DRILLING FROM 3673M - 3724M. FLOW CHECK AT 3717M.
+                                                             DRILLED 8 1/2" HOLE FROM 3653 - 3673M. FLOW CHECK DRILLING BREAK AT FROM 3670M -
+                                                                                       CONTINUED RIH TO 3640M. WASH TO BTM AT 3653M. NO FILL.
+                                                         DRILLED 8 1/2" HOLE FROM 3369 - 3379 M. HAD INCREASING AMOUNT OF CAVINGS IN RETURNS.
+                                                                                                        CONTINUED RIH TO CURRENT DEPTH 3085M.
+                                                                                          RIH TO CSG WINDOW AT 2160M. TESTED MWD OK AT 1000M.
+                                                                                             CONTINUE CHANGE MWD AND LOAD SAME. M/UP NEW BIT.
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                                                                                           R/U TO RUN 3 1/2" DRILL PIPE. START RIH WITH SAME.
+                                                                                  FLOW CHECK, OK. PUMP SLUG AND POOH. HOLE IN GOOD CONDITION.
+                                                                                                              CIRC HOLE CLEAN. BOOSTED RISER.
+                                                                                                       CONTINUED DRILLING FROM 3820M - 3823M.
+                                                                                                       CONTINUED DRILLING FROM 3810M - 3820M.
+                                                             FILL PIPE AND ORIENTED TOOL FACE AND ENTER INTO CSG WINDOW WITHOUT OBSTRUCTIONS.
+                                             CIRC 1,25 BTM UP AT 1220M. BOOST RISER. GOT FAIR AMOUNT OF LARGE SIZE TYPE CAVINGS OVER SHAKERS.
+                                                                                MU BAKER WINDOWMASTER WHIPSTOCK ASSEMBLY. TIH WITH BHA ON DP.
+                                                                                                      MADE UP 27M COREBARREL AND PDC CORHEAD.
+                                                                           COMPLETED TIH TO TD-3057 M. WASHED LAST STAND TO BOTTOM - NO FILL.
+                                                                                       ATTEMPT TO GET COMMUNICATION WITH MWD WITHOUT SUCCESS.
+                                                               FLOW CHECK, OK. PUMP SLUG. POOH. FLOW CHECKED AT 2163M AND WITH BHA BELOW BOP.
+                                                                                                     PUMP SLUG. POOH. GOT 15 T DRAG AT 1220M.
+                         CONTINUED RIH WITH DRILLING BHA TO 3824M. BROKE CIRCULATION EACH 1000M PERFORMED CHECK SHOTS WITH NEW MWD AT 3794M A
+                                                                                                              STARTED TO RIH WITH CORING BHA.
+                                                                                                            LAYED OUT BIT AND DOWNLOADED MWD.
+                                                                           DRILLED 8 1/2" HOLE FROM 3823M - 3837M. MWD INDICATE SAND AT 3822M
+                                                    CONTINUED RIH. BREAK CIRC AND WASH LAST STAND TO BTM. CIRC TO CLEAR STEEL DEBRIS OFF BTM.
+                                                                                                                  CONTINUED TO TIH TO 2135 M.
+                             FILLED DRILLSTRING. CIRCULATED AT 1985 LPM /196 BAR ; ORIENTED BIT TO 65 DEG. RIGHT & RIH THROUGH CASING WINDOW.
+                                                                                                                          DUMP MEMORY ON MWD.
+                                                                   CHANGED BIT. SET AKO TO 0,6 DEGR. FUNCTION TEST SHEAR RAM FROM YELLOW POD.
+                                                                                                                   CONTINUED POOH TO SURFACE.
+                                         FILL DRILL PIPE AND TEST MWD. FAIL TO GET SIGNALS FROM MWD. RE-BOOT MWD COMPUTER AND GOT SIGNALS OK.
+                                                                                                                   RIH TO CURRENT DEPTH 630M.
+                                                                       CONTINUED RIH TO CURRENT DEPTH 2004M. FILL PIPE, TESTED MWD AT 1000M .
+                                                                                                     DRILLED 8 1/2" HOLE FROM 4017M TO 4039M.
+                                                                                                      OPERATIONS SUSPENDED DUE TO OFS STRIKE.
+                                                     MADE UP NEW BIT, SET AKO TO 1,5 DEGR TILT, UNLOAD MWD AND M/UP NEW JAR AND RIH TO 1040M.
+                             CONTINUED CUT CORE FROM 3849 - 3854M. CORE JAMMED, TORQUE DROPPED OFF AND PRESSURE DEGREASED. ATTEMPT TO RESTART
+                                                                                                      DRILLED 8 1/2" HOLE FROM 3057 - 3369 M.
+                                                                                                                       CONTINUE RIH TO 2160M.
+                                                                                                CIRC UNTIL SHAKERS CLEARED UP. BOOSTED RISER.
+                                                                                                                  SLIP AND CUT DRILLING LINE.
+                                                                       ORIENTED TOOL FACE AND ENTERCSG WINDOW. P/UP 4-5 T DRAG OUTSIDE WINDOW
+                                                                                                   RIH TO 3612M. WASHED DOWN TO BTM AT 3632M.
+                                                                  DRILL 8 1/2" HOLE IN ORIENTED MODE FROM 3632 TO 3653M. NO SIGNALS FROM MWD.
+                                                                                                                    RIH TO GET BHA BELOW BOP.
+                                                                                                  TEST BOP FUNCTIONS FROM YELLOW POD. ALL OK.
+                                                                                               CONTINUED TO SLIP AND CUT 33,5M DRILLING LINE.
+                                                                                               FLOW CHECK, OK. PUMP SLUG. POOH TO CHANGE MWD.                                                                                                                       CONT. DE-BALLASTING RIG.
+                                                                                                                      RIGGED UP ATLAS WIRELINE.
+                                                                        POOH. LAID DOWN MWD TOOL AND STABS. LAID DOWN CORE BARREL FROM DERRICK.
+                                                                                              POOH FROM 4641M TO 3546M AND FLOW CHECKED 15 MIN.
+                               RIGGED DOWN CIRCULATION EQUIPMENT. RIH AND WORKED TIGHT SPOTS FROM 3650M TO 3656M AND FROM 3664M TO 3670M. RIH T
+                                                                                                                    SLIPPED AND CUT DRILL LINE.
+                                                    INSTALLED CIRCULATING EQUIPMENT AND CIRCULATED AT 3650M. CIRCULATED WITH 46 SPM AND 50 BAR.
+     CONTINUED RIH AND HAD A SINGLE POINT OF TORQUE INCREASE FROM 5200NM TO 9600NM AT 3205M, BEFORE HITTING LINER TOP AT 3207M. HIT TOP OF LINE
+                                                                                                        RE-RACKED 3 1/2" DRILL PIPE IN DERRICK.
+                                           POOH TO 3672M FOR WIPER TRIP TO 9 5/8" CASING SHOE. WORKED TIGHT SPOT AT 3672M. MAX 30 TON OVERPULL.
+                      UNABLE TO OBTAIN TOOL PHASE FOR STEARING. MUD PUMP NO 1 DOWN. TO MUCH NOISE IN SYSTEM TO OBTAIN READABLE SIGNAL FROM MWD.
+                      HRS WORKED ON REPAIRING LEAKING SSTT`S RECEIVED NEW SSTT WITH HELICOPTER, PRESS TESTED SAME ON DECK PRIOR TO P/U ON DRILL
+                                                                                                    TOOK DOWN OIL PUMP ASSEMBLY TO REPAIR SAME.
+                                                                                    FUNCTION TESTED BOP ON YELLOW POD.  TESTED ACOUSTIC SYSTEM.
+                                                                                                 CONTINUED REPAIRING TDS: CHANGED OUT OIL PUMP.
+                                                                                        DRILLED/SURVEYED 8 1/2" HOLE FROM 4527M TO TD AT 4641M.
+                                                                                                            CONTINUED POOH FROM 3672M TO 3546M.
+                                                     PULLED ANCHORS. BOLSTERED ANCHOR NO.8, 5, 4 AND 1. CONNECTED TOWING GEAR TO "VIKING LADY".
+                                                                           PULLED OUT OF HOLE FORM 3569M. STRAPPED AND DRIFTED PIPE WHILE POOH.
+                         PULLED ANCHORS. BLOSTERD ANCHOR NO. 3 AND PREPAIRED ANCHOR NO. 7 FOR DROP AT NEW LOCATION. ANCHOR NO. 7 HUNG OFF AT 10
+                                                                                                                        FLOW CHECKED, NEGATIVE.
+                            PRESS TESTED NEW SSTT BODY AND BELOW BALL/FLAPPER 350 BAR/10 MIN HAD PROBLEMS WITH LEAKING HOSES AND NEEDLE VALVES.
+                                                                              POOH TO SHOE.WORKED TIGHT SPOT AT 3662M WITH MAX 30 TON OVERPULL.
+                                                                                                  FLOWCHECKED FOR 15 MIN,NEGATIVE. PUMPED SLUG.
+                                                                                                             CIRCULATED BOTTOMS UP FOR SAMPLES.
+                                                                                                              CIRCULATED BOTTOMS UP FOR SAMPLE.
+                                                                                              DRILLED/SURVEYED 8 1/2" HOLE FROM 4308M TO 4328M.
+                                                                                                                    CIRCULATED DUE TO HIGH ROP.
+                                    CONT. DRILLING/SURVEYING 8 1/2" HOLE TO 4308M. FLOW CHECKED AT 4303M AND AT 4308M DUE TO DRILLING BREAKS, N
+                                                                                                   PULLED ANCHORS. BLOSTERD ANCHOR NO. 2 AND 6.
+                                                                                                                            MOVED RIG OVER WELL
+                                                                                                    CIRCULATED BTM'S UP. FLOWCHECKED, NEGATIVE.
+                                          M/U BHA NO. 23 AND RIH TO 800M. TESTED MWD-TOOL. AT 800M, GOT ALARM ON LOW OIL PRESSURE ON TOP DRIVE.
+                                                              MADE UP CEMENT STAND AND RACKED SAME BACK IN DERRICK. RIGGED UP TO RUN 7" CASING.
+                           CONTINUED DRILLING/SURVEYING 8 1/2" HOLE FROM 4140M TO 4298M. FLOW CHECKED AT 4239M DUE TO DRILLING BREAK, NEGATIVE.
+                                                                                         PULLED BACK INTO 9 5/8" CASING. CIRCULATED BOTTOMS UP.
+                                                                                         DRILLED WIPER PLUG, FLOAT AND SHOE.  CLEANED RAT HOLE.
+                                                                                                                  RAN IN TO 3543M. TOOK WEIGHT.
+                                                 CONTINUED DRILLING/SURVEYING 8 1/2" HOLE FROM 4453M TO 4503M. FLOW CHECKED AT 4487M, NEGATIVE.
+                                                                                              DRILLED/SURVEYED 8 1/2" HOLE FROM 4503M TO 4527M.
+                                                                                                 CONT. DRILLING/SURVEYING 8 1/2" HOLE TO 4140M.
+                                                                         CONT. POOH.   BROKE BIT.  L/D MWD TOOL, MOTOR, STABILISERS AND X-OVERS
+                                                                                         LOGGED WITH TRIPLE COMBO MWD-TOOL FROM 3608M TO 3655M.
+                                                                                                                           CONT. POOH TO 1200M.
+            ESTABLISHED CIRCULATION AND STUNG INTO LINER. SET PBR PACKER AND RELEASED RUNNING TOOL. PULLED OUT 10M AND PAINTED MARKER ON PIPE T
+                                                                                           PRESS TESTED BOP KILL AND CHOKE STABS.345 BAR/10 MIN
+                                                                      M/U SEAL ASSY, RIH AND INSTALLED IN WH. PRESS TESTED SEAL ASSY TO 345 BAR
+                                                                                  CONTINUED DRILLING/SURVEYING 8 1/2" HOLE FROM 3971M TO 4083M.
+         CONTINUED POOH FROM 2241M TO SURFACE. LAID DOWN SCRAPERS, PBR MILL, TOPDRESS MILL, JUNK BASKET AND BROKE BIT WHILE POOH. NOTHING IN JU
+                                                                                                                   PRESS TESTED BOP ON BLUE POD
+                                                      P/U 9 5/8" CSG HANGER AND PLUGS, M/U TO RUNNING TOOL. RACKED HANGER ASSY BACK IN DERRICK.
+                                                                                                                                 RIH TO 1490 M.
+                                                             CONT RIH FROM 1490 TO 3580 M. BROKE CIRC EVERY 500 M. REAMED TIGHT SPOT AT 3009 M.
+                                                          CONTINUED RIH FROM 1072M TO 4572M. SPACED OUT AND PICKED UP PBR PACKER ON THE WAY IN.
+                        ATTEMPTED TO OPERATE FAILSAFE - NEG. SEARCED FOR MALFUNCTION AND FOUND BOOSTER BOTTLES ON BOP NOT CHARGED. OPENED ACCUM
+                                                                                                                       PULLED OUT BOP TEST TOOL
+                                                                                                                PRESS TESTED SHEAR RAM 345 BAR.
+                                    CIRCULATED DOWN DRILL PIPE AND UP RISER AT 1050 LPM. MAX GAS WAS 0,06% FROM DEPTH OF WELL HEAD (C1=491 PPM)
+                                                                                 ELECTRICAL ASSIGNMENT PROBLEMS IN SCR ROOM FOR ANCHOR WINCHES.
+                                                      PULLED OUT W/SCORPION ROV DUE TO PROBLEMS W/LEAKING HYDRAULIC HOSE. LAUNCHED SEA OWL ROV.
+                                                                                   MOVED RIG AND BOP 25 M OFF TEMPLATE IN DIRECTION 20 DEGREES.
+                 INSPECTED BOP-CONNECTOR FOR LOCATION OF VX-RING AND FOUND RING IN CONNECTOR. ACTIVATED VX-RING LOCKPINS SEVERAL TIMES AND REIN
+                                                                                                          SERVICE-BROKE TAM-PACKER, L/D ON DECK
+                                                               M/U 8 1/2" BIT, BHA AND RIH TO DRILL CMT IN 9 5/8" CASING BROKE CIRC EVERY 500 M
+                                                                                             PRESS TESTED BOP. FUNCTION TESTED ACOUSTIC SYSTEM.
+                                                                           PICKED UP 7" CASING SCRAPER AND RIH WITH 3 1/2" DRILL PIPE TO 1072M.
+                                                              MADE UP BOP TEST-TOOL. RIH AND TEST BOP TO 20 BAR / 200 BAR. POOH WITH TEST TOOL.
+                                                                                                   RE-LOGGED WITH MWD-TOOL FROM 3941M TO 3955M.
+                                                                                       FLOW CHECKED. PUMPED SLUG. POOH FOR BIT CHANGE TO 3528M.
+            MADE UP PBR AND TOP DRESS MILL (DRESSED WITH TUBE-LOCK ON MILL SURFACES), PICKED UP 3 JOINTS 6 1/2" DRILL COLLARS AND RIH TO 2770M.
+                                                                                                      TESTED MWD. INSTALLED RADIOACTIVE SOURCE.
+                                                             CONTINUED M/U BHA NO.26 AND RIH TO 3144M. FILLED PIPE/BROKE CIRCULATION EACH 600M.
+                                                  CONT. RIH WITH 8 1/2" ROTARY ASSEMBLY TO 3560M.  FILLED PIPE AND BROKE CIRCULATION EACH 600M.
+                                                                                                                            CONT. RIH TO 3608M.
+                                                                                                                                 POOH TO 2173M.
+                                                                                                               CONT. RIH TO 4297M. FILLED PIPE.
+                                                                                  BROKE CIRCULATION.  LOGGED WITH MWD-TOOL FROM 4313M TO 4383M.
+                                                   DRILLED/SURVEYED 8 1/2" HOLE FROM 4383M TO 4453M. FLOW CHECKED AT 4392M AND 4415M, NEGATIVE.
+              OPENED KILL VALVE.  PRESSURED UP DST STRING TO 330 BAR AGAINST CLOSED CHOKE TO FIRE GUNS.  CLOSED KILL VALVE.  BLED DOWN STRING P
+                                                                                           CONT. REPAIRING TDS. RE-INSTALLED OIL PUMP ASSEMBLY.
+                                                                                    CONT. RIH TO 3028M.  FILLED PIPE AND BROKE CIRC. EACH 500M.
+                                                                                                             CONT. RIH WITH BHA NO.23 TO 3565M.
+                                                                                                               CONT. RIH TO 3884M, TOOK WEIGHT.
+               CONTINUED RUNNING IN WITH 5" DRILL PIPE. FILLED PIPE AND BROKE CIRCULATION EVERY 35 STANDS. TAGGED OBSTRUCTION AT 4560M PUSHED S
+                                             RIGGED DOWN 3 1/2" DRILL PIPE EQUIPMENT AND RIGGED UP 5" DRILL PIPE EQUIPMENT. REARRANGED SETBACK.
+             RIGGED UP PIPE HANDLING EQUIPMENT, MADE UP BHA AND RAN SAME IN HOLE ON 3 1/2" DRILLPIPE. FILLED PIPE AND BROKE CIRCULATION EVERY 3
+                                                                                                    CONT. ROTATION DRILLING/SURVEYING TO 3955M.
+                                                                                                  WASHED/REAMED TIGHT HOLE FROM 3884M TO 3955M.
+                                                                                   ROTARY DRILLED AND SURVEYED 8 1/2" HOLE FROM 3955M TO 3971M.
+                                                                                        FOUND MOTOR ON UPPER RACKING ARM LOOSE.  REPAIRED SAME.
+                                                                                                                    REPAIRED UPPER RACKING ARM.
+                                                       M/U AND RIH WITH JET SUB, WASHED WH AREA, M/U WEAR BUSHING AND CONT RIH, SET WB AND POOH
+                                                                                                                    RAPAIRED UPPER RACKING ARM.
+                                                                                                       CONT RIH WITH 6" MILL FROM 154 TO 2200 M
+                                                                                                                     CUT AND SLIPPED DRILL LINE
+                                                                                                          RIH WITH TEST PLUG AND INSTALLED SAME
+                                                                         PRESS TESTED K/C LINES AND WELLHEAD CONN 345 BAR. FUNCTION TESTED BOP.
+                                                                                  POOH, L/D TEST PLUG, FUNCTION TESTED SHEAR RAM WITH ACCOUSTIC
+                                   RIG IN TRANSIT FROM 15/9-D3H TO 15/9-19S WITH VIKING LADY IN TOWING BRIDDLE. DROPPED ANCHOR NO 7 AT 1955 HRS
+                                                                                                                                   REPAIRED TDS
+                                                                                                                   PULLED RIG 25 M OFF LOCATION
+                                                                    CONT RIH FROM 2200 TO 4500 M WASHED LINER PBR/HANGER AREA FROM 3188 TO 3205
+                                                                                                          M/U BHA WITH 6" MILL AND RIH TO 154 M
+                               RAN GUIDELINE AND CONNECTED TO HATCH. POSITIONED RIG AND OPENED HATCH. ESTABLISED GUIDELINES, ASSISTED WITH ROV.
+                                                                    TENSION-TESTED ANCHORS, RERUN ANCHOR NO 7 AND TENSION TESTED SAME TO 160 MT
+                                                                                                                              POOH WITH 6" MILL
+                                  WAITED ON ATLAS WIRELINE TO ARRIVE ONBOARD WITH HELICOPTER. WHILE WAITING SERVICED TDS AND CLEANED RIG FLOOR.
+                                                                               R/U ATLAS WIRELINE EQUIPMENT, PREPARED TOOLS FOR RUNNING MAGNET.
+                                                                                                                BALLASTED RIG TO DRILLING DRAFT
+                                                                                                                                  BALLASTED RIG
+                                                                                                                         SET ANCHORS NO 8 AND 4
+                                            RAN IN WITH PERFORATING GUNS.  CORRELATED AND PERFORATED 9 5/8" CASING FROM 3260 TO 3255,4M.  POOH.
+                                                        ATTEMPTED TO RUN IN WITH GUNS, NEGATIVE. HUNG UP AT 34 M.  POOH. INSTALLED CENTRALIZER.
+                                                                                                      POSITIONED RIG OVER SLOT 3, WELL 15/9-19S
+                                                                                                   RIGGED UP WIRELINE. PREPARED AND ARMED GUNS.
+                                                                               P/U AND BREAK OFF ONE SINGLE TUBING BELOW HRS FLOWHEAD, L/D SAME
+                                                                                                         PUMPED 3 M3 CACL2 BRINE SLUG AND POOH.
+                                                              DISPLACED HOLE TO 1,40 SG PETROFREE MUD, USED 50 M3 SW AND 8 M3 HI-VISC AS SPACER
+                                              M/U 8 1/2" BHA Æ19, INITIALIZED MWD MEMORY AND FUNCTION TESTED SAME. RIH AND TAGGED CMT AT 3216 M
+                               RIH AND RETRIEVED BAKER RETRIEVABLE PLUG AT 205 M POOH WITH PLUG AND RET TOOL, UNABLE TO FREE PLUG FROM RET TOOL
+                           PULLED RIG ON LOCATION, POSITIONED SAME. ENTERED CORR CAP W/RET TOOL, PULLED CAP FREE WITH 20 MT OVERPULL. PULLED RI
+                                                                                             PRESS TESTED TDS VALVES AND KELLY HOSES TO 345 BAR
+                                                                                   RIH WITH CORE BARREL TO 3548M.  BROKE CIRCULATION EACH 600M.
+                                                                                                                        CONTINUED RIH TO 4326M.
+                                                                                                                    REAMED FROM 4326M TO 4355M.
+                                                                        CONTINUED DRILLING WITH 8 1/2" BIT IN 9 5/8" CASING FROM 2510 TO 2937 M
+                                                                                                            CONT POOH WITH PBR MILL FROM 1377 M
+                                                                      DRILLED DART PLUG FROM 2502 M, CONTINUED DRILLING CMT FROM 2502,5 TO 2510
+                                                                                                               REPAIRED TEST PLUG FOR K/C LINES
+                                                                             CHANGED O-RING ON KILL LINE GOOSNECK, PRESS TESTED SAME TO 200 BAR
+                                                                                         POSITIONED RIG ABOVE SLOT, BALLASTED TO DRILLING DRAFT
+                                                                          LANDED BOP OFF IN WH, CLOSED CONNECTOR. PERFORMED OVERPULL WITH 25 MT
+                                                                                 L/D LANDING JNT, P/U AND INSTALL DIVERTER. H/U HYDRAULIC HOSES
+                                                                                                                           CONTINUED MAIN FLOW.
+                                                                                                                     CONTINUED MAIN FLOW PERIOD
+                                                                                                           CUT CORE  NO. 3 FROM 4355M TO 4383M.
+                                                 CIRCULATED 15 MINUTES.  FLOW CHECKED, NEGATIVE.  SLUGGED PIPE. POOH WITH CORE BARREL TO 4134M.
+                                                                                             CONT RIH FROM 170 TO 2502 M BROKE CIRC EVERY 500 M
+                                                                                                                     CONTINUED P/U 5" DRILLPIPE
+                                                                                                           CONT P/U 5" DRILLPIPE, TOT 201 JNTS.
+    M/U ELASTOMERIC SEAL ASSEMBLY AND RUNNING TOOL AND RIH. HUNG UP AT 34 M.  WORKED THROUGH RESTRICTION.  SET SEAL ASSEMBLY. FLUSHED LINES.  P
+                                                                                                        DRILLED 8 1/2" HOLE FROM 3580 TO 3581 M
+                                                                                                   DRILLED RETAINER AT 3535 M AND CMT TO 3480 M
+                                                                                                   PRESS TESTED CSG TO 62 BAR, EQUAL TO 1,71 SG
+                             DRILLED/SURVEYED 8 1/2" HOLE FROM 3877M TO 3894M. ATTEMPTED STEERING AT 3877M, NEGATIVE DUE TO MOTOR STALLING OUT.
+                                                                                 DRILLED/SURVEYED 8 1/2" HOLE FROM 3894M TO 3950M. NO STEERING.
+                  CONTINUED POOH.  REAMED TIGHT SPOT AT 4515M, 4454M AND 4415M. WITH MAX 30 TONN OVERPULL. HAD PROBLEMS WITH STALLING ROTARY. R
+                                                                   BACKREAMED OUT OF HOLE FROM 4641M TO 4408M. HAD TO WORK TIGHT SPOT AT 4415M.
+                            PRESS TESTED SURFACE LINES/KILL LINE TO 100 BAR CLOSED ANNULAR AND PRESS TESTED 9 5/8" CASING TO 62 BAR, EQUAL TO 1
+                                                                                              CIRCULATED WELL FOR EVEN MUDWEIGHT IN/OUT 1,42 SG
+                                                                                                             PERFORMED FIT EQUAL TO 1,71 SG MUD
+                                                                                              WASHED AND REAMED FROM 3260 TO RETAINER AT 3535 M
+                                                                                                          CONT DRILLING CMT FROM 3254 TO 3260 M
+                                           L/D CMT HEAD AND X-OVERS. CHANGED ELEVATOR LINKS, R/D STABBING BOARD. R/U HEAD ON LOWER RACKING ARM.
+                                                                                                                    P/U AND M/U NEW 8 1/2" BHA.
+                                                                    CONT M/U 8 1/2" BHA. NOT ABLE TO INSTALL FLOAT, REPLACED BIT SUB AND FLOAT.
+                                                                                                                 CONT M/U BHA AND RIH TO 115 M.
+                                                                                                             CONTINUED RIH FROM 3550M TO 4298M.
+                                                                                    RIH WITH BHA NO. 24 TO 3550M.  BROKE CIRCULATION EACH 600M.
+                                                 PICKED UP CBBL AND INSTALLED 27M ALUMINIUM INNER BARREL. SPACED OUT CBBL AND MADE UP COREHEAD.
+                                                                                       CONTINUED POOH.LAID DOWN MONEL,STABILIZERS AND MWD TOOL.
+                                                                                         CONTINUED BACKREAMING OUT OF HOLE FROM 4408M TO 3569M.
+                                                                                                        DRILLED 8 1/2" HOLE FROM 3581 TO 3595 M
+                                                                      POOH AND LAID DOWN 60 JOINTS 5" DRILLPIPE AND 66 JOINTS 3 1/2" DRILL PIPE
+                                            WASHED DOWN FROM 4300M AND TAGGED TOP OF CEMENT AT 4523M. WASHING WITH 190 LPM, 110 BAR AND 60 RPM.
+                                   RIH WITH CEMENT CLEAN-OUT TOOL.  HUNG UP AT 34 M. WORKED TOOL THROUGH RESTRICTION. WASHED WELLHEAD AND POOH.
+                                                                                                               CONT. POOH.   L/D CEMENT STINGER
+                                                                                              POOH TO 750M.  PULLED STANDS IN DERRICK MANUALLY.
+                                                                  HAD TO CHANGE 3 1/2" ELEVATORS. THE ELEVATORS THAT WERE MOUNTED DID NOT WORK.
+STARTED RIH WITH 3 1/2" DRILLPIPE, COULD NOT FIND A X-OVER NEEDED TO PUT 7" SCRAPER IN THE MIDDLE OF THE 3 1/2" DRILL PIPE. POOH. (X-OVER  3 1/
+                                                                                                                    REPAIRED UPPER RACKING ARM.
+                                                                                                     SLUGGED PIPE AND POOH FROM 4607M TO 2241M.
+                         TAGGED LINER PBR AT 3207M, (HAD CIRCULATION PRESSURE INCREASE OF 5 BAR AND TORQUE INCREASE OF 7400 - 8900 NM) AND DRES
+                                                                                         DRILLED EXCESS CEMENT IN 7" LINER FROM 4588M TO 4607M.
+                                                                                         DRILLED EXCESS CEMENT IN 7" LINER FROM 4529M TO 4588M.
+                                                   CIRCULATED REMAINDER OF THICK MUD OUT OF WELL UNTIL SURFACE SYSTEMS WERE OPERATING PROPERLY.
+                                                                                          FINISHED CLEANING SHAKERS AND FLOW LINE OF THICK MUD.
+                           FIRST ROUND CIRCULATION ARRIVED AT SURFACE, AND IT WAS SO THICK IT MADE THE SHAKER TRAYS OVERFLOW. CLEANED SHAKERS F
+                                                                                         DRILLED EXCESS SEMENT IN 7" LINER FROM 4523M TO 4529M.
+          PRESS TESTED SSTT/TUBING - NEG, VOL INCREASED AT TRIP TANK. PULLED SSTT ABOVE ROTARY TO CHECK FOR LEAKS, PRESS TESTED SSTT/TUBING - N
+                                            CONT FUNCTION TESTED NEW SSTT. REPLACED SSTT CONTROL MANIFOLD DUE TO PROBLEMS WITH HYDRAULIC PUMPS.
+                                       CONTINUED POOH FROM 827M TO SURFACE, BROKE BIT AND SCRAPER. LAID DOWN 49 JOINTS 5" DRILLPIPE WHILE POOH.
+                                CHANGED TO SLIMHOLE HANDLING EQUIPMENT, PICKED UP 2 JOINTS 4 3/4" DRILL COLLARS AND MADE UP 6" BIT AND SCRAPER.
+                                                                   CONTINUED MAKING UP 6" BHA AND PICKED UP 3 1/2" DRILL PIPE WHILE RIH TO 90M.
+                   PICKED UP 137 JOINTS 3 1/2" DRILLPIPE, PBR MILL AND TOPDRESS MILL, 9 5/8" CASING SCRAPER WHILE RUNNING IN HOLE FROM 90M TO 4
+                          WORKED AREA FROM 4270M TO 4305M WITH 7" CASING SCRAPER ROTATING AT 66 RPM WITH 22000 NM TORQUE AND PUMPING WITH 890 L
+                                                                                                                        CONTINUED POOH TO 700M.
+                                                                                                   POOH WITH HANG OFF ASSEMBLY, REDRESSED SAME.
+                                                                                                      M/U 8 1/2" BIT AND TRIPLE COMBO MWD-TOOL.
+                                                                                         CONT DRILLING CMT IN 9 5/8" CASING FROM 3391 TO 3422 M
+                            OPENED SHEAR RAM DOORS ON BOP AND INSPECTED SEALS. FOUND DAMAGES ON T-SEAL AND ON 1 RAM-TOP SEAL,  CHANGED OUT SAME
+                      PRESSURE TESTED MPR, INNER KILL VALVE AND UPR TO 20/345 BAR, 5/10 MINS ATTEMPTED PRESSURE TESTING SHEAR RAM, NEGATIVE.  M
+                                                                                                               DRAINED BOP.  INVESTIGATED LEAK.
+                                                                                                             RAN IN TO 3393M.  WASHED TO 3422M.
+         CHECKED SPRING LOADED TOOL.  RE-RUN TO PULL SEAL ASSEMBLY.  LANDED OFF,  CLOSED LAP.  PULLED BACK 3M. OBSERVED PRESSURE BUILD-UP TO 11
+                                                                                       CONNECTED CABLE ENDS TOGETHER TO PULL CABLE OUT OF HOLE.
+                               PREPARED TO BREAK WEAK POINT ON CABLE HEAD. LATCHED T-BAR IN ELEVATOR AND PULLED CABLE FREE WITH 5 TON OVERPULL.
+                BROKE CIRCULATION WITH 7 SPM AND 23 BAR. RIH AND ENGAGED FISH AT 3675M. PULLED BACK 3M TO ENSURE ENGAGEMENT OF FISH. POOH TO 35
+                                                                                                    CONTINUED RIH WITH VSP FROM 1000M TO 3924M.
+                                                                                                         REPAIRED HYDRAULIC LEAK ON ATLAS UNIT.
+                                                                                                                      RIH WITH VSP/GR TO 1000M.
+                                     TESTED CASING/LINER LAP TO 147 BAR / 15 MIN. WHILE RIGGED DOWN CBL/VDL/GR/CCL AND RIGGED UP TO RUN VSP/GR.
+                                                                  LOGGED CBL/VDL/GR/CCL FROM 4540M TO 3150M. RIH AT 07:50 HRS, OOH AT 1600 HRS.
+                                         BROKE PBR AND TOP DRESS MILL. TUBELOCK WAS GONE, THIS INDICATES THAT IT WAS ENGAGED WITH TOP OF LINER.
+                                                                        SLUGGED PIPE AND POOH. LAID DOWN 24 JOINTS OF 5" DRILL PIPE WHILE POOH.
+                                                  MADE UP CIRCULATION STAND. INSTALLED INSERTS FOR STUFFING BOX AND RIGGED UP CIRCULATION HOSE.
+                                                                                                          CONTINUED RIH WITH OVERSHOT TO 3656M.
+                      MADE UP PUMP-IN SUB AND STUFFING BOX ASSY ON A STAND AND RACKED SAME BACK IN DERRICK. PICKED UP ONE SINGLE FOR SPACE OUT.
+                                             CONTINUED RIH WITH OVERSHOT TO 3530M. BROKE CIRCULATION AND CHECKED CABLE HEAD AT 2400M AND 3530M.
+                                            CONTINUED RIH WITH OVERSHOT ASSEMBLY TO 2100M. BROKE CIRCULATION AND RETERMINATED CATCHER AT 1200M.
+                      DRILLED/SURVEYED 8 1/2" HOLE FROM 3648M TO 3749M: STEERED FROM 3648M TO 3662M, 3674-3691M, 3702-3716M, 3724-3730M, 3731-3
+                                                                                             REAMED AND RE-LOGGED WITH MWD FROM 3585M TO 3648M.
+                                                                 CONTINUED RIH WITH BHA NO.22 TO 3585M.  FILLED PIPE AND BROKE CIRC. EACH 500M.
+                                                                                                             LANDED AND SECURED BOP ON CARRIER.
+                                                                                     RIH TO 1157M. FILLED PIPE AND BROKE CIRCULATION EACH 500M.
+                                                                              PULLED BOP THROUGH SPLASH ZONE.  PREPARED TO LAND BOP ON CARRIER.
+                                                                                                                          PREPARED TO PULL BOP.
+                                                                                                                              CONT REPARING TDS
+                                                                                                                           L/D 6 5/8" DRILLPIPE
+                                                                     PERFORMED TORQUE READING CHECK ON TDS, TESTED TORQUE AGAINST TONG LOAD CEL
+                                                                                                                 L/D REMAINING 6 5/8" DRILLPIPE
+                                                                                                       P/U 5" DRILLPIPE, RACKED BACK IN DERRICK
+                                                                                                                  DISPLACED RISER TO SEA WATER.
+                                                                               HUNG OFF DRILL STRING IN WELLHEAD AND RETRIEVED HANG OFF STRING.
+                                                                                              SPACED OUT FOR CORING. DROPPED BALL, SEATED SAME.
+                                                                                            CUT CORE NO.1 FROM 3643M TO 3648M. CORE JAMMED OFF.
+                                                                                                                         POOH. BROKE CORE HEAD.
+                                                                                                           FLOW CHECKED 15 MINS.  SLUGGED PIPE.
+                                                                                              DRILLED/SURVEYED 8 1/2" HOLE FROM 3595M TO 3643M.
+                                                                                              LOGGED WITH THE NEW MWD-TOOL FROM 3576M TO 3595M.
+                                                            RE-BUILT BHA.  FUNCTION TESTED MWD-TOOL.  RIH TO 3576M. BROKE CIRCULATION EACH 500M
+                                                                                                               L/D MWD-TOOL.  M/U NEW MWD-TOOL.
+                                                                                                                                RECOVERED CORE.
+                                                                                                                          CIRCULATED BOTTOMS UP
+                                                                                                            DRILLED CEMENT FROM 3422M TO 3452M.
+                                                                                                           CONT. POOH.   BROKE BIT AND BIT SUB.
+                                                                                                                   POOH FOR BIT CHANGE TO 284 M
+                                                                          ATTEMPTED TO CONT DRILLING 8 1/2" HOLE, NO PROGRESS. FLOWCHECKED WELL
+                                                                                                                        MOVED RIG 25M STARBOARD
+                                    P/U LANDING JOINT AND CONTINUED PREPARATIONS TO PULL BOP. DISCONNECTED AT 08:45 HRS.   DE-BALLASTED RIG 3M.
+                                                                                     DISPLACED RISER TO SEA WATER.  OBSERVED WELL, WELL STATIC.
+                                                                                                               W.O.W.  SEE REMARKS FOR DETAILS.
+                                                                M/U BHA NO.22.  P/U MUD MOTOR AND TESTED SAME.  P/U MWD-TOOL. ORIENTED NORTRAK.
+                                                                                                        PUMPED OUT OF HOLE FROM 1300M TO 1030M.
+                                                                                                               CONT. POOH WITH STINGER TO 200M.
+                                                                                                                     CONT. POOH. L/D 85 JOINTS.
+                                                                                                      POOH.  RACKED BHA IN DERRICK.  BROKE BIT.
+                                                    POOH WITH LINER RUNNING TOOL FROM 1470M TO SURFACE. LAID DOWN 78 JOINTS OF 5" DP WHILE POOH
+                                                                                         LAID DOWN NODECO HANGER RUNNING TOOL AND CEMENT STAND.
+                                                                                                MADE UP 8 1/2" BIT AND SCRAPER AND RIH TO 2870.
+                                                                           WASHED AND REAMED FROM 2870M TO TOP OF PBR AT 3206M, NO HARD CEMENT.
+                                                             SLUGGED PIPE AND POOH FROM 3206M TO 827M. LAID DOWN 14 JOINTS OF 5" DP WHILE POOH.
+                                                                                 RIGGED UP WIRELINE. RIH WITH GYRO, UNABLE TO PASS 1230M. POOH.
+                                           MADE UP 8 1/2" BIT AND 9 5/8" CASING SCRAPER.  RAN IN TO 2675M. BROKE CIRCULATION AT 1200 AND 2400M.
+                                                                                                                 CONTINUED RUNNING IN TO 3545M.
+                                                                                                                               POOH FROM 3545M.
+                                                           LAID DOWN 33 JOINTS 3 1/2" DRILL PIPE, 2 JOINTS 5" DRILL PIPE AND TWO DRILLING JARS.
+                        CONTINUED HOLE CLEANING, PUMPING 2270 LPM WITH 172 RPM AND 260 BAR. MAX CUTTINGS OVER SHAKERS 17,2 KG/15 SEC. STARTED T
+                                                                            DRILLED 12 1/4" HOLE FROM 3562 TO 3580 M. DRILLING BREAK AT 3570 M.
+                                                                         POOH TO 2100 M TO RUN 9 5/8" CSG. REAMED THROUGH TIGHT SPOT AT 3025 M.
+                                                                                                              SECURED EXLOG HOSE TO KELLY HOSE.
+                                                        CONT POOH TO 6 STDS ABOVE 13 3/8" CSG SHOE. FLOWCHECKED 20 MIN WHILE M/U HANG-OFF TOOL.
+                                                                                       RIH WITH CEMENT CLEAN-OUT TOOL.  WASHED WELLHEAD.  POOH.
+                                                                                                          CONTINUED POOH AND L/D SEAL ASSEMBLY.
+                       RELEASED TRAPPED GAS FROM BOP AND DRILL STRING. OPENED LAP.   FLOW CHECKED 15 MINS, NEG. POOH WITH SEAL ASSEMBLY TO 30M.
+                                 CIRCULATED THROUGH BOP AT 350 LPM. BLED OFF PRESSURE.  OBSERVED PRESSURE BUILD-UP 1,5 BAR.  BLED OFF PRESSURE.
+                   BLED OFF PRESSURE. CLOSED IN TO OBSERVE BUILD-UP:  7 BAR/30 MINS. BLED OFF FROM 7 BAR.   PRESSURE BUILT UP TO 5 BAR/20 MINS.
+                                                                                                               CONT. POOH.  L/D CEMENT STINGER.
+                                                                                                                       CONTINUED POOH TO 1300M.
+                                                                                              PRESSURE TESTED 9 5/8" CASING TO 345 BAR/15 MINS.
+                                                                                                                              WAITING ON WEATHE
+                                                                                    CONTINUED POOH.  BROKE BIT AND CASING SCRAPER.  RACKED BHA.
+                                                                                                                        RIGGED UP FOR WIRELINE.
+                                                                                            RAN GYRO TO 3500M. POOH AND L/D TOOL.  R/D WIRELINE
+                                                            M/U BAKER CEMENT RETAINER AND RIH TO 85M. PIPE DID NOT FILL. POOH AND L/D RETAINER.
+                                                                                                    M/U ALPHA CEMENT RETAINER AND RIH TO 3535M.
+                                           RELEASED SLIPS AND SET RETAINER BY PULLING 20 TONS OVERPULL. SET DOWN 10 TONS TO VERIFY SETTING, OK.
+      LINED UP TO PRESSURE TEST CEMENT RETAINER. FLUSHED LINES AND ATTEMPTED PRESSURE TESTING SURFACE LINES AGAINST FAIL SAFE VALVE TO 100 BAR,
+                                                                                               CONTINUED WAITING ON WEATHER FOR ANCHOR HANDLING
+                                                                                                          WAITED ON WEATHER FOR ANCHOR HANDLING
+                                                                                                                        CONT WAITING ON WEATHER
+                                                                                                                   CONTINUED WAITING ON WEATHER
+                                                                                             DEBALLASTED RIG TO 21 M AND PULLED RIG ON LOCATION
+                                                        CLEARED OUT GUIDELINES AROUND BOP STACK WITH ROV. INSTALLED NEW GUIDELINE NO 2 WITH ROV
+                                                                                                              INSTALLED DIVERTER HANDLING TOOL.
+                                                                                                  CONTINUED DRILLING CEMENT FROM 2937 TO 3040 M
+                                                                                             WAITED ON WEATHER FOR WEATHER DETAILS, SEE GENERAL
+                                                                                      CONT WAITING ON WEATHER, FOR DETAILS SEE GERERAL REMARKS.
+              RIH WITH GR/CCL LOGS FOR TUBING CORRELATION, CORRELATED AGAINST RADIOACTIVE MARKER IN LINER, POOH WITH LOGGING TOOLS. R/D AWS WIR
+                                                                 RIG WITH GR/CCL LOGS TO 2000 M, POOH TO CHANGE TOOL OD FROM 2 1/8" TO 1 11/16"
+                                                                  CONTINUED DRILLING CEMENT WITH 8 1/2" BIT IN 9 5/8" CASING  FROM 3040 TO 3391
+                                                                                                                     MOVED RIG 25M OFF LOCATION
+                                                 RIH WITH METAL-TO-METAL SEAL ASSEMBLY.  INSTALLED AND PRESSURE TESTED SAME TO 345 BAR/10 MINS.
+                                                                                                                              WAITED ON WEATHER
+                                                                                DISPLACED HOLE TO INHIBITED SEA WATER.  L/D BAKER RUNNING TOOL.
+                                                                                                                W.O.W, SEE REMARKS FOR DETAILS.
+                                                                                CIRCULATED THROUGH BOP AT 350 LPM HOLDING 10 BAR BACK PRESSURE.
+                                                                                               CONTINUED CIRCULATING HOLE CLEAN.  SLUGGED PIPE.
+                                           RAN 10 3/4" CASING HANGER AND LANDING STRING. LANDED HANGER AT 2140 HRS WITH 9 5/8" SHOE AT 3569,3 M
+                                                               CIRCULATED WELL, REDUCED MW FROM 1,60 TO 1,55 SG. TREATED MUD FOR MUD PROPERTIES
+                                              CONTINUED DRILLING/SURVEYING 8 1/2" HOLE TO 3797M: STEERED FROM 3763 TO 3767M AND 3769M TO 3779M.
+        DRILLED/SURVEYED 8 1/2" HOLE FROM 3797M TO 3873M: STEERED FROM 3797M TO 3799M AND FROM 3815M TO 3827M. ATTEMPTED STEERING AT 3869M, NEG
+                                WIPER TRIP TO 3546M. ROTATED PIPE IN SLIPS ON FIRST 8 CONNECTIONS DUE TO TENDENCIES OF STICKING. NO TIGHT HOLE.
+                                                                                                                      RAN IN TO 3873M, NO FILL.
+                                                                                               R/D 10 3/4" CASING EQUIP AND R/U 6 5/8" DP EQUIP
+                                                                 DRILLED/SURVEYED 8 1/2" HOLE FROM 3873M TO 3877M. STEERED FROM 3875M TO 3876M.
+                                             FLUSHED K/C-LINES. VERIFIED OPEN PERFORATIONS BY INJECTING MUD WITH CEMENT PUMP AGAINST SHEAR RAM.
+   M/U ALPHA CEMENT RETAINER.  HUNG UP AT 34 M.  WORKED RETAINER THROUGH RESTRICTION. RAN IN TO 1700M. ROTATED 1-2 REVOLUTIONS TO THE LEFT EACH
+                                                                                                          CONT. RIH WITH ALPHA CEMENT RETAINER.
+                                       SET PACKER AT 3225M.  FLUSHED SURFACE LINES AND PRESSURE TESTED RETAINER DOWN ANNULUS TO 70 BAR/10 MINS.
+                                                                                                                 M/U CORE BARREL AND CORE HEAD.
+    ATTEMPTED TO RELEASE RUNNING TOOL, NEGATIVE.  INCREASED OVERPULL IN STEPS UP TO 40 TONS. ROTATED STRING WITH OVERPULL.  WHILE ROTATING, RED
+                                                                                           CONT. POOH WITH GUNS. ALL SHOTS FIRED. R/D WIRELINE.
+                                                                                                    RIH WITH 10 3/4" CASING FROM 3390 TO 3442 M
+                                                                                                           RETRIEVED DRILLSTRING FROM WELLHEAD.
+                                                  REPLACED 9 5/8" CSG EQUIP WITH 10 3/4" CSG EQUIP. M/U X-OVER HELD OPERATION MEETING WITH CREW
+                                                                                                    POOH.  BROKE BIT.  L/D MWD AND STABILIZERS.
+                                                ENGAGED TAM-PACKER. BROKE CIRCULATION GENTLY, CIRCULATED WHILE WOW. PREPARED 10 3/4" CSG EQUIP.
+                                                                                                        CONT RUNNING CASING FROM 3228 TO 3390 M
+                                                                                                          DISPLACED RISER BACK TO 1.6 S.G. MUD.
+                                                              CONT RUNNING 9 5/8" CASING  FROM 2747 TO 3228 M HELD OPERATION MEETING WITH CREW.
+                                                                                                        CONT RUNNING CASING FROM 2210 TO 2747 M
+                                                                             PULLED CABLE OUT OF HOLE. ( CABLE BROKE AT WEEKPOINT AS INTENDED.)
+                                                                                RIGGED DOWN ATLAS WIRELINE AND PREPARED TO POOH WITH DRILLPIPE.
+                                                                                       POOH WITH OVERSHOT AND LOGGING TOOLS FROM 3512M TO 900M.
+                                                                                                CONTINUED POOH WITH OVERSHOT AND LOGGING TOOLS.
+                                                   RECOVERED TOOLSTRING FROM OVERSHOT. REMOVED RADIOACTIVE SOURCES AND LAID DOWN LOGGING TOOLS.
+                                                                        RIGGED DOWN ATLAS WIRELINE, RE-ARRANGED SET-BACK AND CLEARED RIG FLOOR.
+                                              MADE UP 8 1/2" CLEAN-OUT ASSEMBLY AND RIH TO 4630M. BROKE CIRCULATION AND FILLED PIPE EVERY 850M.
+                                       BROKE CIRCULATION. TAGGED BOTTOM AT 4641M, CIRCULATED AND CONDITIONED MUD PRIOR TO POOH, TO RUN 7" LINER
+                                                                                                                          POOH TO RUN 7" LINER.
+                          STUNG INTO RETAINER AND CONFIRMED INJECTIVITY. PULLED OUT OF RETAINER WHILE PUMPING TO VERIFY PROPER FUNCTIONING, OK.
+                                                                                                             POSITIONED RIG BACK OVER TEMPLATE.
+                                                                                               RE-CHECKED PERFORATIONS BY INJECTING 0,5 M3 MUD.
+                                   HESITATION SQUEEZED 1,0 M3 CEMENT SLURRY. STINGED OUT OF RETAINER.  PUMPED 0,5 M3 MUD. PULLED BACK TO 3210M.
+   INSTALLED CEMENT HOSE. FLUSHED/PRESSURE TESTED SURFACE LINES TO 345 BAR/5 MINS. PUMPED 3,0 M3 UNWEIGHED SPACER.  MIXED AND PUMPED 7,5 M3 1,9
+                RAN SHOE JNT, 1 CSG JNT AND FLOAT JNT, CHECKED FLOAT. THREAD LOCKED SHOE JNT AND FLOAT JNT TO INTERMEDITATE JNT. RAN 9 5/8" CSG
+                                                                        R/U TO RUN 9 5/8" CASING, INST TAM TOOL. HELD PRE-JOB MEETING WITH CREW
+                                                                                                                     REPAIRED UPPER RACKING ARM
+                 CONT POOH WITH 12 1/4" BIT FROM 3480 M. BACKREAMED FROM 3030 TO 2990 M FLOWCHECKED AT 2350 AND 1475 M. L/D BIT AND BHA, DUMPED
+                                                                                      FLOWCHECKED 10 MIN, POOH TO RUN 9 5/8" CASING, AT 3480 M.
+                                                                                             WAITED ON WEATHER TO PULL BOP THROUGH SPLASH ZONE.
+                                                                                                         CONTINUED CLEANING RIG FLOOR AND PITS.
+                        CLEANED RIG FLOOR. HELD MEETING ON RIG FLOOR WITH PERSONEL INVOLVED IN BHA RUNNING OPERATION. PREPARED TO RUN TCP GUNS.
+                                                                   RIH FROM 1343M TO 3141M. WORKED TIGHT SPOT AT 2980M. REAMED LAST STAND TO TD
+                                                                                                       PULLED BOP TO 29M,  L/D RISER PUP JOINT.
+         PULLED OUT TO 4133M, WORKED AREA FROM 4133M TO 4103M WITH SCRAPER AND RAN BACK IN HOLE TO 4562M. WORKED SCRAPER BY RECIPROCATING AND R
+                                                                        DISCONNECTED KILL- AND CHOKE HOSES AND RUCKER LINES. PULLED BOP TO 33M.
+                                                                                                                   PULLED RIG 25M OFF LOCATION.
+                                                                                                                      BACKLOADED PETROFREE MUD.
+                                                                                                             POOH AND LAID DOWN TESTING STRING.
+                                                                  CLOSED FLOW HEAD WING VALVE AND CHOKE MANIFOLD.  OPENED FLOW HEAD KILL VALVE.
+                                                                                                             POOH AND LAID DOWN TESTING STRING.
+                                                                                                                SLIPPED AND CUT 32M DRILL LINE.
+                                                                                  WELL SHUT-IN AT LPR-N VVALVE AND CHOKE MANIFOLD FOR BUILD-UP.
+                                                                                   WELL SHUT INN ON LPR-N AND CHOKE MANIFOLD FOR MAIN BUILD-UP.
+                                                              BLED OFF GAS FROM TEST TUBING THROUGH CHOKE MANIFOLD TO BURNER UNTIL WHP BELOW 10
+                                                                                      CONT RIH WITH 4 1/2" PH-4 TEST TUBING FROM 3097 TO 3751 M
+                                                                                                             INSTALLED X-OVER ON TEST STANDPIPE
+                                                                                       CONT RIH WITH 4 1/2" PH4 TEST TUBING FROM 3055 TO 3097 M
+                                                                                P/U FLOWHEAD AND M/U TO ONE SINGLE 4 1/2" PH-4 TUBING, L/D SAME
+                                                     CONT RIH WITH 4 1/2" PH-6 TEST TUBING FROM 1501 TO 3055 M. FILLED STRING WITH 1,15 SG BRIN
+                                                                   SERVICE BROKE AND LAID DOWN EZ-TREE. CLEARED DRILL FLOOR OF TESTING EQUIMENT
+                                                                                 P/U 2 EACH 6 1/2" DRILL COLLARS.  RIH WITH BHA NO.21 TO 3641M.
+                                                                                                   CONT RIH WITH TEST TUBING FROM 550 TO 1401 M
+                                                                      SERVICE BROKE AND LAID DOWN LUB.VALVE. POOH AND LAID DOWN LANDING STRING.                                                                                                                       CONT. DE-BALLASTING RIG.
+                                                                                                                      RIGGED UP ATLAS WIRELINE.
+                                                                        POOH. LAID DOWN MWD TOOL AND STABS. LAID DOWN CORE BARREL FROM DERRICK.
+                                                                                              POOH FROM 4641M TO 3546M AND FLOW CHECKED 15 MIN.
+                               RIGGED DOWN CIRCULATION EQUIPMENT. RIH AND WORKED TIGHT SPOTS FROM 3650M TO 3656M AND FROM 3664M TO 3670M. RIH T
+                                                                                                                    SLIPPED AND CUT DRILL LINE.
+                                                    INSTALLED CIRCULATING EQUIPMENT AND CIRCULATED AT 3650M. CIRCULATED WITH 46 SPM AND 50 BAR.
+     CONTINUED RIH AND HAD A SINGLE POINT OF TORQUE INCREASE FROM 5200NM TO 9600NM AT 3205M, BEFORE HITTING LINER TOP AT 3207M. HIT TOP OF LINE
+                                                                                                        RE-RACKED 3 1/2" DRILL PIPE IN DERRICK.
+                                           POOH TO 3672M FOR WIPER TRIP TO 9 5/8" CASING SHOE. WORKED TIGHT SPOT AT 3672M. MAX 30 TON OVERPULL.
+                      UNABLE TO OBTAIN TOOL PHASE FOR STEARING. MUD PUMP NO 1 DOWN. TO MUCH NOISE IN SYSTEM TO OBTAIN READABLE SIGNAL FROM MWD.
+                      HRS WORKED ON REPAIRING LEAKING SSTT`S RECEIVED NEW SSTT WITH HELICOPTER, PRESS TESTED SAME ON DECK PRIOR TO P/U ON DRILL
+                                                                                                    TOOK DOWN OIL PUMP ASSEMBLY TO REPAIR SAME.
+                                                                                    FUNCTION TESTED BOP ON YELLOW POD.  TESTED ACOUSTIC SYSTEM.
+                                                                                                 CONTINUED REPAIRING TDS: CHANGED OUT OIL PUMP.
+                                                                                        DRILLED/SURVEYED 8 1/2" HOLE FROM 4527M TO TD AT 4641M.
+                                                                                                            CONTINUED POOH FROM 3672M TO 3546M.
+                                                     PULLED ANCHORS. BOLSTERED ANCHOR NO.8, 5, 4 AND 1. CONNECTED TOWING GEAR TO "VIKING LADY".
+                                                                           PULLED OUT OF HOLE FORM 3569M. STRAPPED AND DRIFTED PIPE WHILE POOH.
+                         PULLED ANCHORS. BLOSTERD ANCHOR NO. 3 AND PREPAIRED ANCHOR NO. 7 FOR DROP AT NEW LOCATION. ANCHOR NO. 7 HUNG OFF AT 10
+                                                                                                                        FLOW CHECKED, NEGATIVE.
+                            PRESS TESTED NEW SSTT BODY AND BELOW BALL/FLAPPER 350 BAR/10 MIN HAD PROBLEMS WITH LEAKING HOSES AND NEEDLE VALVES.
+                                                                              POOH TO SHOE.WORKED TIGHT SPOT AT 3662M WITH MAX 30 TON OVERPULL.
+                                                                                                  FLOWCHECKED FOR 15 MIN,NEGATIVE. PUMPED SLUG.
+                                                                                                             CIRCULATED BOTTOMS UP FOR SAMPLES.
+                                                                                                              CIRCULATED BOTTOMS UP FOR SAMPLE.
+                                                                                              DRILLED/SURVEYED 8 1/2" HOLE FROM 4308M TO 4328M.
+                                                                                                                    CIRCULATED DUE TO HIGH ROP.
+                                    CONT. DRILLING/SURVEYING 8 1/2" HOLE TO 4308M. FLOW CHECKED AT 4303M AND AT 4308M DUE TO DRILLING BREAKS, N
+                                                                                                   PULLED ANCHORS. BLOSTERD ANCHOR NO. 2 AND 6.
+                                                                                                                            MOVED RIG OVER WELL
+                                                                                                    CIRCULATED BTM'S UP. FLOWCHECKED, NEGATIVE.
+                                          M/U BHA NO. 23 AND RIH TO 800M. TESTED MWD-TOOL. AT 800M, GOT ALARM ON LOW OIL PRESSURE ON TOP DRIVE.
+                                                              MADE UP CEMENT STAND AND RACKED SAME BACK IN DERRICK. RIGGED UP TO RUN 7" CASING.
+                           CONTINUED DRILLING/SURVEYING 8 1/2" HOLE FROM 4140M TO 4298M. FLOW CHECKED AT 4239M DUE TO DRILLING BREAK, NEGATIVE.
+                                                                                         PULLED BACK INTO 9 5/8" CASING. CIRCULATED BOTTOMS UP.
+                                                                                         DRILLED WIPER PLUG, FLOAT AND SHOE.  CLEANED RAT HOLE.
+                                                                                                                  RAN IN TO 3543M. TOOK WEIGHT.
+                                                 CONTINUED DRILLING/SURVEYING 8 1/2" HOLE FROM 4453M TO 4503M. FLOW CHECKED AT 4487M, NEGATIVE.
+                                                                                              DRILLED/SURVEYED 8 1/2" HOLE FROM 4503M TO 4527M.
+                                                                                                 CONT. DRILLING/SURVEYING 8 1/2" HOLE TO 4140M.
+                                                                         CONT. POOH.   BROKE BIT.  L/D MWD TOOL, MOTOR, STABILISERS AND X-OVERS
+                                                                                         LOGGED WITH TRIPLE COMBO MWD-TOOL FROM 3608M TO 3655M.
+                                                                                                                           CONT. POOH TO 1200M.
+            ESTABLISHED CIRCULATION AND STUNG INTO LINER. SET PBR PACKER AND RELEASED RUNNING TOOL. PULLED OUT 10M AND PAINTED MARKER ON PIPE T
+                                                                                           PRESS TESTED BOP KILL AND CHOKE STABS.345 BAR/10 MIN
+                                                                      M/U SEAL ASSY, RIH AND INSTALLED IN WH. PRESS TESTED SEAL ASSY TO 345 BAR
+                                                                                  CONTINUED DRILLING/SURVEYING 8 1/2" HOLE FROM 3971M TO 4083M.
+         CONTINUED POOH FROM 2241M TO SURFACE. LAID DOWN SCRAPERS, PBR MILL, TOPDRESS MILL, JUNK BASKET AND BROKE BIT WHILE POOH. NOTHING IN JU
+                                                                                                                   PRESS TESTED BOP ON BLUE POD
+                                                      P/U 9 5/8" CSG HANGER AND PLUGS, M/U TO RUNNING TOOL. RACKED HANGER ASSY BACK IN DERRICK.
+                                                                                                                                 RIH TO 1490 M.
+                                                             CONT RIH FROM 1490 TO 3580 M. BROKE CIRC EVERY 500 M. REAMED TIGHT SPOT AT 3009 M.
+                                                          CONTINUED RIH FROM 1072M TO 4572M. SPACED OUT AND PICKED UP PBR PACKER ON THE WAY IN.
+                        ATTEMPTED TO OPERATE FAILSAFE - NEG. SEARCED FOR MALFUNCTION AND FOUND BOOSTER BOTTLES ON BOP NOT CHARGED. OPENED ACCUM
+                                                                                                                       PULLED OUT BOP TEST TOOL
+                                                                                                                PRESS TESTED SHEAR RAM 345 BAR.
+                                    CIRCULATED DOWN DRILL PIPE AND UP RISER AT 1050 LPM. MAX GAS WAS 0,06% FROM DEPTH OF WELL HEAD (C1=491 PPM)
+                                                                                 ELECTRICAL ASSIGNMENT PROBLEMS IN SCR ROOM FOR ANCHOR WINCHES.
+                                                      PULLED OUT W/SCORPION ROV DUE TO PROBLEMS W/LEAKING HYDRAULIC HOSE. LAUNCHED SEA OWL ROV.
+                                                                                   MOVED RIG AND BOP 25 M OFF TEMPLATE IN DIRECTION 20 DEGREES.
+                 INSPECTED BOP-CONNECTOR FOR LOCATION OF VX-RING AND FOUND RING IN CONNECTOR. ACTIVATED VX-RING LOCKPINS SEVERAL TIMES AND REIN
+                                                                                                          SERVICE-BROKE TAM-PACKER, L/D ON DECK
+                                                               M/U 8 1/2" BIT, BHA AND RIH TO DRILL CMT IN 9 5/8" CASING BROKE CIRC EVERY 500 M
+                                                                                             PRESS TESTED BOP. FUNCTION TESTED ACOUSTIC SYSTEM.
+                                                                           PICKED UP 7" CASING SCRAPER AND RIH WITH 3 1/2" DRILL PIPE TO 1072M.
+                                                              MADE UP BOP TEST-TOOL. RIH AND TEST BOP TO 20 BAR / 200 BAR. POOH WITH TEST TOOL.
+                                                                                                   RE-LOGGED WITH MWD-TOOL FROM 3941M TO 3955M.
+                                                                                       FLOW CHECKED. PUMPED SLUG. POOH FOR BIT CHANGE TO 3528M.
+            MADE UP PBR AND TOP DRESS MILL (DRESSED WITH TUBE-LOCK ON MILL SURFACES), PICKED UP 3 JOINTS 6 1/2" DRILL COLLARS AND RIH TO 2770M.
+                                                                                                      TESTED MWD. INSTALLED RADIOACTIVE SOURCE.
+                                                             CONTINUED M/U BHA NO.26 AND RIH TO 3144M. FILLED PIPE/BROKE CIRCULATION EACH 600M.
+                                                  CONT. RIH WITH 8 1/2" ROTARY ASSEMBLY TO 3560M.  FILLED PIPE AND BROKE CIRCULATION EACH 600M.
+                                                                                                                            CONT. RIH TO 3608M.
+                                                                                                                                 POOH TO 2173M.
+                                                                                                               CONT. RIH TO 4297M. FILLED PIPE.
+                                                                                  BROKE CIRCULATION.  LOGGED WITH MWD-TOOL FROM 4313M TO 4383M.
+                                                   DRILLED/SURVEYED 8 1/2" HOLE FROM 4383M TO 4453M. FLOW CHECKED AT 4392M AND 4415M, NEGATIVE.
+              OPENED KILL VALVE.  PRESSURED UP DST STRING TO 330 BAR AGAINST CLOSED CHOKE TO FIRE GUNS.  CLOSED KILL VALVE.  BLED DOWN STRING P
+                                                                                           CONT. REPAIRING TDS. RE-INSTALLED OIL PUMP ASSEMBLY.
+                                                                                    CONT. RIH TO 3028M.  FILLED PIPE AND BROKE CIRC. EACH 500M.
+                                                                                                             CONT. RIH WITH BHA NO.23 TO 3565M.
+                                                                                                               CONT. RIH TO 3884M, TOOK WEIGHT.
+               CONTINUED RUNNING IN WITH 5" DRILL PIPE. FILLED PIPE AND BROKE CIRCULATION EVERY 35 STANDS. TAGGED OBSTRUCTION AT 4560M PUSHED S
+                                             RIGGED DOWN 3 1/2" DRILL PIPE EQUIPMENT AND RIGGED UP 5" DRILL PIPE EQUIPMENT. REARRANGED SETBACK.
+             RIGGED UP PIPE HANDLING EQUIPMENT, MADE UP BHA AND RAN SAME IN HOLE ON 3 1/2" DRILLPIPE. FILLED PIPE AND BROKE CIRCULATION EVERY 3
+                                                                                                    CONT. ROTATION DRILLING/SURVEYING TO 3955M.
+                                                                                                  WASHED/REAMED TIGHT HOLE FROM 3884M TO 3955M.
+                                                                                   ROTARY DRILLED AND SURVEYED 8 1/2" HOLE FROM 3955M TO 3971M.
+                                                                                        FOUND MOTOR ON UPPER RACKING ARM LOOSE.  REPAIRED SAME.
+                                                                                                                    REPAIRED UPPER RACKING ARM.
+                                                       M/U AND RIH WITH JET SUB, WASHED WH AREA, M/U WEAR BUSHING AND CONT RIH, SET WB AND POOH
+                                                                                                                    RAPAIRED UPPER RACKING ARM.
+                                                                                                       CONT RIH WITH 6" MILL FROM 154 TO 2200 M
+                                                                                                                     CUT AND SLIPPED DRILL LINE
+                                                                                                          RIH WITH TEST PLUG AND INSTALLED SAME
+                                                                         PRESS TESTED K/C LINES AND WELLHEAD CONN 345 BAR. FUNCTION TESTED BOP.
+                                                                                  POOH, L/D TEST PLUG, FUNCTION TESTED SHEAR RAM WITH ACCOUSTIC
+                                   RIG IN TRANSIT FROM 15/9-D3H TO 15/9-19S WITH VIKING LADY IN TOWING BRIDDLE. DROPPED ANCHOR NO 7 AT 1955 HRS
+                                                                                                                                   REPAIRED TDS
+                                                                                                                   PULLED RIG 25 M OFF LOCATION
+                                                                    CONT RIH FROM 2200 TO 4500 M WASHED LINER PBR/HANGER AREA FROM 3188 TO 3205
+                                                                                                          M/U BHA WITH 6" MILL AND RIH TO 154 M
+                               RAN GUIDELINE AND CONNECTED TO HATCH. POSITIONED RIG AND OPENED HATCH. ESTABLISED GUIDELINES, ASSISTED WITH ROV.
+                                                                    TENSION-TESTED ANCHORS, RERUN ANCHOR NO 7 AND TENSION TESTED SAME TO 160 MT
+                                                                                                                              POOH WITH 6" MILL
+                                  WAITED ON ATLAS WIRELINE TO ARRIVE ONBOARD WITH HELICOPTER. WHILE WAITING SERVICED TDS AND CLEANED RIG FLOOR.
+                                                                               R/U ATLAS WIRELINE EQUIPMENT, PREPARED TOOLS FOR RUNNING MAGNET.
+                                                                                                                BALLASTED RIG TO DRILLING DRAFT
+                                                                                                                                  BALLASTED RIG
+                                                                                                                         SET ANCHORS NO 8 AND 4
+                                            RAN IN WITH PERFORATING GUNS.  CORRELATED AND PERFORATED 9 5/8" CASING FROM 3260 TO 3255,4M.  POOH.
+                                                        ATTEMPTED TO RUN IN WITH GUNS, NEGATIVE. HUNG UP AT 34 M.  POOH. INSTALLED CENTRALIZER.
+                                                                                                      POSITIONED RIG OVER SLOT 3, WELL 15/9-19S
+                                                                                                   RIGGED UP WIRELINE. PREPARED AND ARMED GUNS.
+                                                                               P/U AND BREAK OFF ONE SINGLE TUBING BELOW HRS FLOWHEAD, L/D SAME
+                                                                                                         PUMPED 3 M3 CACL2 BRINE SLUG AND POOH.
+                                                              DISPLACED HOLE TO 1,40 SG PETROFREE MUD, USED 50 M3 SW AND 8 M3 HI-VISC AS SPACER
+                                              M/U 8 1/2" BHA Æ19, INITIALIZED MWD MEMORY AND FUNCTION TESTED SAME. RIH AND TAGGED CMT AT 3216 M
+                               RIH AND RETRIEVED BAKER RETRIEVABLE PLUG AT 205 M POOH WITH PLUG AND RET TOOL, UNABLE TO FREE PLUG FROM RET TOOL
+                           PULLED RIG ON LOCATION, POSITIONED SAME. ENTERED CORR CAP W/RET TOOL, PULLED CAP FREE WITH 20 MT OVERPULL. PULLED RI
+                                                                                             PRESS TESTED TDS VALVES AND KELLY HOSES TO 345 BAR
+                                                                                   RIH WITH CORE BARREL TO 3548M.  BROKE CIRCULATION EACH 600M.
+                                                                                                                        CONTINUED RIH TO 4326M.
+                                                                                                                    REAMED FROM 4326M TO 4355M.
+                                                                        CONTINUED DRILLING WITH 8 1/2" BIT IN 9 5/8" CASING FROM 2510 TO 2937 M
+                                                                                                            CONT POOH WITH PBR MILL FROM 1377 M
+                                                                      DRILLED DART PLUG FROM 2502 M, CONTINUED DRILLING CMT FROM 2502,5 TO 2510
+                                                                                                               REPAIRED TEST PLUG FOR K/C LINES
+                                                                             CHANGED O-RING ON KILL LINE GOOSNECK, PRESS TESTED SAME TO 200 BAR
+                                                                                         POSITIONED RIG ABOVE SLOT, BALLASTED TO DRILLING DRAFT
+                                                                          LANDED BOP OFF IN WH, CLOSED CONNECTOR. PERFORMED OVERPULL WITH 25 MT
+                                                                                 L/D LANDING JNT, P/U AND INSTALL DIVERTER. H/U HYDRAULIC HOSES
+                                                                                                                           CONTINUED MAIN FLOW.
+                                                                                                                     CONTINUED MAIN FLOW PERIOD
+                                                                                                           CUT CORE  NO. 3 FROM 4355M TO 4383M.
+                                                 CIRCULATED 15 MINUTES.  FLOW CHECKED, NEGATIVE.  SLUGGED PIPE. POOH WITH CORE BARREL TO 4134M.
+                                                                                             CONT RIH FROM 170 TO 2502 M BROKE CIRC EVERY 500 M
+                                                                                                                     CONTINUED P/U 5" DRILLPIPE
+                                                                                                           CONT P/U 5" DRILLPIPE, TOT 201 JNTS.
+    M/U ELASTOMERIC SEAL ASSEMBLY AND RUNNING TOOL AND RIH. HUNG UP AT 34 M.  WORKED THROUGH RESTRICTION.  SET SEAL ASSEMBLY. FLUSHED LINES.  P
+                                                                                                        DRILLED 8 1/2" HOLE FROM 3580 TO 3581 M
+                                                                                                   DRILLED RETAINER AT 3535 M AND CMT TO 3480 M
+                                                                                                   PRESS TESTED CSG TO 62 BAR, EQUAL TO 1,71 SG
+                             DRILLED/SURVEYED 8 1/2" HOLE FROM 3877M TO 3894M. ATTEMPTED STEERING AT 3877M, NEGATIVE DUE TO MOTOR STALLING OUT.
+                                                                                 DRILLED/SURVEYED 8 1/2" HOLE FROM 3894M TO 3950M. NO STEERING.
+                  CONTINUED POOH.  REAMED TIGHT SPOT AT 4515M, 4454M AND 4415M. WITH MAX 30 TONN OVERPULL. HAD PROBLEMS WITH STALLING ROTARY. R
+                                                                   BACKREAMED OUT OF HOLE FROM 4641M TO 4408M. HAD TO WORK TIGHT SPOT AT 4415M.
+                            PRESS TESTED SURFACE LINES/KILL LINE TO 100 BAR CLOSED ANNULAR AND PRESS TESTED 9 5/8" CASING TO 62 BAR, EQUAL TO 1
+                                                                                              CIRCULATED WELL FOR EVEN MUDWEIGHT IN/OUT 1,42 SG
+                                                                                                             PERFORMED FIT EQUAL TO 1,71 SG MUD
+                                                                                              WASHED AND REAMED FROM 3260 TO RETAINER AT 3535 M
+                                                                                                          CONT DRILLING CMT FROM 3254 TO 3260 M
+                                           L/D CMT HEAD AND X-OVERS. CHANGED ELEVATOR LINKS, R/D STABBING BOARD. R/U HEAD ON LOWER RACKING ARM.
+                                                                                                                    P/U AND M/U NEW 8 1/2" BHA.
+                                                                    CONT M/U 8 1/2" BHA. NOT ABLE TO INSTALL FLOAT, REPLACED BIT SUB AND FLOAT.
+                                                                                                                 CONT M/U BHA AND RIH TO 115 M.
+                                                                                                             CONTINUED RIH FROM 3550M TO 4298M.
+                                                                                    RIH WITH BHA NO. 24 TO 3550M.  BROKE CIRCULATION EACH 600M.
+                                                 PICKED UP CBBL AND INSTALLED 27M ALUMINIUM INNER BARREL. SPACED OUT CBBL AND MADE UP COREHEAD.
+                                                                                       CONTINUED POOH.LAID DOWN MONEL,STABILIZERS AND MWD TOOL.
+                                                                                         CONTINUED BACKREAMING OUT OF HOLE FROM 4408M TO 3569M.
+                                                                                                        DRILLED 8 1/2" HOLE FROM 3581 TO 3595 M
+                                                                      POOH AND LAID DOWN 60 JOINTS 5" DRILLPIPE AND 66 JOINTS 3 1/2" DRILL PIPE
+                                            WASHED DOWN FROM 4300M AND TAGGED TOP OF CEMENT AT 4523M. WASHING WITH 190 LPM, 110 BAR AND 60 RPM.
+                                   RIH WITH CEMENT CLEAN-OUT TOOL.  HUNG UP AT 34 M. WORKED TOOL THROUGH RESTRICTION. WASHED WELLHEAD AND POOH.
+                                                                                                               CONT. POOH.   L/D CEMENT STINGER
+                                                                                              POOH TO 750M.  PULLED STANDS IN DERRICK MANUALLY.
+                                                                  HAD TO CHANGE 3 1/2" ELEVATORS. THE ELEVATORS THAT WERE MOUNTED DID NOT WORK.
+STARTED RIH WITH 3 1/2" DRILLPIPE, COULD NOT FIND A X-OVER NEEDED TO PUT 7" SCRAPER IN THE MIDDLE OF THE 3 1/2" DRILL PIPE. POOH. (X-OVER  3 1/
+                                                                                                                    REPAIRED UPPER RACKING ARM.
+                                                                                                     SLUGGED PIPE AND POOH FROM 4607M TO 2241M.
+                         TAGGED LINER PBR AT 3207M, (HAD CIRCULATION PRESSURE INCREASE OF 5 BAR AND TORQUE INCREASE OF 7400 - 8900 NM) AND DRES
+                                                                                         DRILLED EXCESS CEMENT IN 7" LINER FROM 4588M TO 4607M.
+                                                                                         DRILLED EXCESS CEMENT IN 7" LINER FROM 4529M TO 4588M.
+                                                   CIRCULATED REMAINDER OF THICK MUD OUT OF WELL UNTIL SURFACE SYSTEMS WERE OPERATING PROPERLY.
+                                                                                          FINISHED CLEANING SHAKERS AND FLOW LINE OF THICK MUD.
+                           FIRST ROUND CIRCULATION ARRIVED AT SURFACE, AND IT WAS SO THICK IT MADE THE SHAKER TRAYS OVERFLOW. CLEANED SHAKERS F
+                                                                                         DRILLED EXCESS SEMENT IN 7" LINER FROM 4523M TO 4529M.
+          PRESS TESTED SSTT/TUBING - NEG, VOL INCREASED AT TRIP TANK. PULLED SSTT ABOVE ROTARY TO CHECK FOR LEAKS, PRESS TESTED SSTT/TUBING - N
+                                            CONT FUNCTION TESTED NEW SSTT. REPLACED SSTT CONTROL MANIFOLD DUE TO PROBLEMS WITH HYDRAULIC PUMPS.
+                                       CONTINUED POOH FROM 827M TO SURFACE, BROKE BIT AND SCRAPER. LAID DOWN 49 JOINTS 5" DRILLPIPE WHILE POOH.
+                                CHANGED TO SLIMHOLE HANDLING EQUIPMENT, PICKED UP 2 JOINTS 4 3/4" DRILL COLLARS AND MADE UP 6" BIT AND SCRAPER.
+                                                                   CONTINUED MAKING UP 6" BHA AND PICKED UP 3 1/2" DRILL PIPE WHILE RIH TO 90M.
+                   PICKED UP 137 JOINTS 3 1/2" DRILLPIPE, PBR MILL AND TOPDRESS MILL, 9 5/8" CASING SCRAPER WHILE RUNNING IN HOLE FROM 90M TO 4
+                          WORKED AREA FROM 4270M TO 4305M WITH 7" CASING SCRAPER ROTATING AT 66 RPM WITH 22000 NM TORQUE AND PUMPING WITH 890 L
+                                                                                                                        CONTINUED POOH TO 700M.
+                                                                                                   POOH WITH HANG OFF ASSEMBLY, REDRESSED SAME.
+                                                                                                      M/U 8 1/2" BIT AND TRIPLE COMBO MWD-TOOL.
+                                                                                         CONT DRILLING CMT IN 9 5/8" CASING FROM 3391 TO 3422 M
+                            OPENED SHEAR RAM DOORS ON BOP AND INSPECTED SEALS. FOUND DAMAGES ON T-SEAL AND ON 1 RAM-TOP SEAL,  CHANGED OUT SAME
+                      PRESSURE TESTED MPR, INNER KILL VALVE AND UPR TO 20/345 BAR, 5/10 MINS ATTEMPTED PRESSURE TESTING SHEAR RAM, NEGATIVE.  M
+                                                                                                               DRAINED BOP.  INVESTIGATED LEAK.
+                                                                                                             RAN IN TO 3393M.  WASHED TO 3422M.
+         CHECKED SPRING LOADED TOOL.  RE-RUN TO PULL SEAL ASSEMBLY.  LANDED OFF,  CLOSED LAP.  PULLED BACK 3M. OBSERVED PRESSURE BUILD-UP TO 11
+                                                                                       CONNECTED CABLE ENDS TOGETHER TO PULL CABLE OUT OF HOLE.
+                               PREPARED TO BREAK WEAK POINT ON CABLE HEAD. LATCHED T-BAR IN ELEVATOR AND PULLED CABLE FREE WITH 5 TON OVERPULL.
+                BROKE CIRCULATION WITH 7 SPM AND 23 BAR. RIH AND ENGAGED FISH AT 3675M. PULLED BACK 3M TO ENSURE ENGAGEMENT OF FISH. POOH TO 35
+                                                                                                    CONTINUED RIH WITH VSP FROM 1000M TO 3924M.
+                                                                                                         REPAIRED HYDRAULIC LEAK ON ATLAS UNIT.
+                                                                                                                      RIH WITH VSP/GR TO 1000M.
+                                     TESTED CASING/LINER LAP TO 147 BAR / 15 MIN. WHILE RIGGED DOWN CBL/VDL/GR/CCL AND RIGGED UP TO RUN VSP/GR.
+                                                                  LOGGED CBL/VDL/GR/CCL FROM 4540M TO 3150M. RIH AT 07:50 HRS, OOH AT 1600 HRS.
+                                         BROKE PBR AND TOP DRESS MILL. TUBELOCK WAS GONE, THIS INDICATES THAT IT WAS ENGAGED WITH TOP OF LINER.
+                                                                        SLUGGED PIPE AND POOH. LAID DOWN 24 JOINTS OF 5" DRILL PIPE WHILE POOH.
+                                                  MADE UP CIRCULATION STAND. INSTALLED INSERTS FOR STUFFING BOX AND RIGGED UP CIRCULATION HOSE.
+                                                                                                          CONTINUED RIH WITH OVERSHOT TO 3656M.
+                      MADE UP PUMP-IN SUB AND STUFFING BOX ASSY ON A STAND AND RACKED SAME BACK IN DERRICK. PICKED UP ONE SINGLE FOR SPACE OUT.
+                                             CONTINUED RIH WITH OVERSHOT TO 3530M. BROKE CIRCULATION AND CHECKED CABLE HEAD AT 2400M AND 3530M.
+                                            CONTINUED RIH WITH OVERSHOT ASSEMBLY TO 2100M. BROKE CIRCULATION AND RETERMINATED CATCHER AT 1200M.
+                      DRILLED/SURVEYED 8 1/2" HOLE FROM 3648M TO 3749M: STEERED FROM 3648M TO 3662M, 3674-3691M, 3702-3716M, 3724-3730M, 3731-3
+                                                                                             REAMED AND RE-LOGGED WITH MWD FROM 3585M TO 3648M.
+                                                                 CONTINUED RIH WITH BHA NO.22 TO 3585M.  FILLED PIPE AND BROKE CIRC. EACH 500M.
+                                                                                                             LANDED AND SECURED BOP ON CARRIER.
+                                                                                     RIH TO 1157M. FILLED PIPE AND BROKE CIRCULATION EACH 500M.
+                                                                              PULLED BOP THROUGH SPLASH ZONE.  PREPARED TO LAND BOP ON CARRIER.
+                                                                                                                          PREPARED TO PULL BOP.
+                                                                                                                              CONT REPARING TDS
+                                                                                                                           L/D 6 5/8" DRILLPIPE
+                                                                     PERFORMED TORQUE READING CHECK ON TDS, TESTED TORQUE AGAINST TONG LOAD CEL
+                                                                                                                 L/D REMAINING 6 5/8" DRILLPIPE
+                                                                                                       P/U 5" DRILLPIPE, RACKED BACK IN DERRICK
+                                                                                                                  DISPLACED RISER TO SEA WATER.
+                                                                               HUNG OFF DRILL STRING IN WELLHEAD AND RETRIEVED HANG OFF STRING.
+                                                                                              SPACED OUT FOR CORING. DROPPED BALL, SEATED SAME.
+                                                                                            CUT CORE NO.1 FROM 3643M TO 3648M. CORE JAMMED OFF.
+                                                                                                                         POOH. BROKE CORE HEAD.
+                                                                                                           FLOW CHECKED 15 MINS.  SLUGGED PIPE.
+                                                                                              DRILLED/SURVEYED 8 1/2" HOLE FROM 3595M TO 3643M.
+                                                                                              LOGGED WITH THE NEW MWD-TOOL FROM 3576M TO 3595M.
+                                                            RE-BUILT BHA.  FUNCTION TESTED MWD-TOOL.  RIH TO 3576M. BROKE CIRCULATION EACH 500M
+                                                                                                               L/D MWD-TOOL.  M/U NEW MWD-TOOL.
+                                                                                                                                RECOVERED CORE.
+                                                                                                                          CIRCULATED BOTTOMS UP
+                                                                                                            DRILLED CEMENT FROM 3422M TO 3452M.
+                                                                                                           CONT. POOH.   BROKE BIT AND BIT SUB.
+                                                                                                                   POOH FOR BIT CHANGE TO 284 M
+                                                                          ATTEMPTED TO CONT DRILLING 8 1/2" HOLE, NO PROGRESS. FLOWCHECKED WELL
+                                                                                                                        MOVED RIG 25M STARBOARD
+                                    P/U LANDING JOINT AND CONTINUED PREPARATIONS TO PULL BOP. DISCONNECTED AT 08:45 HRS.   DE-BALLASTED RIG 3M.
+                                                                                     DISPLACED RISER TO SEA WATER.  OBSERVED WELL, WELL STATIC.
+                                                                                                               W.O.W.  SEE REMARKS FOR DETAILS.
+                                                                M/U BHA NO.22.  P/U MUD MOTOR AND TESTED SAME.  P/U MWD-TOOL. ORIENTED NORTRAK.
+                                                                                                        PUMPED OUT OF HOLE FROM 1300M TO 1030M.
+                                                                                                               CONT. POOH WITH STINGER TO 200M.
+                                                                                                                     CONT. POOH. L/D 85 JOINTS.
+                                                                                                      POOH.  RACKED BHA IN DERRICK.  BROKE BIT.
+                                                    POOH WITH LINER RUNNING TOOL FROM 1470M TO SURFACE. LAID DOWN 78 JOINTS OF 5" DP WHILE POOH
+                                                                                         LAID DOWN NODECO HANGER RUNNING TOOL AND CEMENT STAND.
+                                                                                                MADE UP 8 1/2" BIT AND SCRAPER AND RIH TO 2870.
+                                                                           WASHED AND REAMED FROM 2870M TO TOP OF PBR AT 3206M, NO HARD CEMENT.
+                                                             SLUGGED PIPE AND POOH FROM 3206M TO 827M. LAID DOWN 14 JOINTS OF 5" DP WHILE POOH.
+                                                                                 RIGGED UP WIRELINE. RIH WITH GYRO, UNABLE TO PASS 1230M. POOH.
+                                           MADE UP 8 1/2" BIT AND 9 5/8" CASING SCRAPER.  RAN IN TO 2675M. BROKE CIRCULATION AT 1200 AND 2400M.
+                                                                                                                 CONTINUED RUNNING IN TO 3545M.
+                                                                                                                               POOH FROM 3545M.
+                                                           LAID DOWN 33 JOINTS 3 1/2" DRILL PIPE, 2 JOINTS 5" DRILL PIPE AND TWO DRILLING JARS.
+                        CONTINUED HOLE CLEANING, PUMPING 2270 LPM WITH 172 RPM AND 260 BAR. MAX CUTTINGS OVER SHAKERS 17,2 KG/15 SEC. STARTED T
+                                                                            DRILLED 12 1/4" HOLE FROM 3562 TO 3580 M. DRILLING BREAK AT 3570 M.
+                                                                         POOH TO 2100 M TO RUN 9 5/8" CSG. REAMED THROUGH TIGHT SPOT AT 3025 M.
+                                                                                                              SECURED EXLOG HOSE TO KELLY HOSE.
+                                                        CONT POOH TO 6 STDS ABOVE 13 3/8" CSG SHOE. FLOWCHECKED 20 MIN WHILE M/U HANG-OFF TOOL.
+                                                                                       RIH WITH CEMENT CLEAN-OUT TOOL.  WASHED WELLHEAD.  POOH.
+                                                                                                          CONTINUED POOH AND L/D SEAL ASSEMBLY.
+                       RELEASED TRAPPED GAS FROM BOP AND DRILL STRING. OPENED LAP.   FLOW CHECKED 15 MINS, NEG. POOH WITH SEAL ASSEMBLY TO 30M.
+                                 CIRCULATED THROUGH BOP AT 350 LPM. BLED OFF PRESSURE.  OBSERVED PRESSURE BUILD-UP 1,5 BAR.  BLED OFF PRESSURE.
+                   BLED OFF PRESSURE. CLOSED IN TO OBSERVE BUILD-UP:  7 BAR/30 MINS. BLED OFF FROM 7 BAR.   PRESSURE BUILT UP TO 5 BAR/20 MINS.
+                                                                                                               CONT. POOH.  L/D CEMENT STINGER.
+                                                                                                                       CONTINUED POOH TO 1300M.
+                                                                                              PRESSURE TESTED 9 5/8" CASING TO 345 BAR/15 MINS.
+                                                                                                                              WAITING ON WEATHE
+                                                                                    CONTINUED POOH.  BROKE BIT AND CASING SCRAPER.  RACKED BHA.
+                                                                                                                        RIGGED UP FOR WIRELINE.
+                                                                                            RAN GYRO TO 3500M. POOH AND L/D TOOL.  R/D WIRELINE
+                                                            M/U BAKER CEMENT RETAINER AND RIH TO 85M. PIPE DID NOT FILL. POOH AND L/D RETAINER.
+                                                                                                    M/U ALPHA CEMENT RETAINER AND RIH TO 3535M.
+                                           RELEASED SLIPS AND SET RETAINER BY PULLING 20 TONS OVERPULL. SET DOWN 10 TONS TO VERIFY SETTING, OK.
+      LINED UP TO PRESSURE TEST CEMENT RETAINER. FLUSHED LINES AND ATTEMPTED PRESSURE TESTING SURFACE LINES AGAINST FAIL SAFE VALVE TO 100 BAR,
+                                                                                               CONTINUED WAITING ON WEATHER FOR ANCHOR HANDLING
+                                                                                                          WAITED ON WEATHER FOR ANCHOR HANDLING
+                                                                                                                        CONT WAITING ON WEATHER
+                                                                                                                   CONTINUED WAITING ON WEATHER
+                                                                                             DEBALLASTED RIG TO 21 M AND PULLED RIG ON LOCATION
+                                                        CLEARED OUT GUIDELINES AROUND BOP STACK WITH ROV. INSTALLED NEW GUIDELINE NO 2 WITH ROV
+                                                                                                              INSTALLED DIVERTER HANDLING TOOL.
+                                                                                                  CONTINUED DRILLING CEMENT FROM 2937 TO 3040 M
+                                                                                             WAITED ON WEATHER FOR WEATHER DETAILS, SEE GENERAL
+                                                                                      CONT WAITING ON WEATHER, FOR DETAILS SEE GERERAL REMARKS.
+              RIH WITH GR/CCL LOGS FOR TUBING CORRELATION, CORRELATED AGAINST RADIOACTIVE MARKER IN LINER, POOH WITH LOGGING TOOLS. R/D AWS WIR
+                                                                 RIG WITH GR/CCL LOGS TO 2000 M, POOH TO CHANGE TOOL OD FROM 2 1/8" TO 1 11/16"
+                                                                  CONTINUED DRILLING CEMENT WITH 8 1/2" BIT IN 9 5/8" CASING  FROM 3040 TO 3391
+                                                                                                                     MOVED RIG 25M OFF LOCATION
+                                                 RIH WITH METAL-TO-METAL SEAL ASSEMBLY.  INSTALLED AND PRESSURE TESTED SAME TO 345 BAR/10 MINS.
+                                                                                                                              WAITED ON WEATHER
+                                                                                DISPLACED HOLE TO INHIBITED SEA WATER.  L/D BAKER RUNNING TOOL.
+                                                                                                                W.O.W, SEE REMARKS FOR DETAILS.
+                                                                                CIRCULATED THROUGH BOP AT 350 LPM HOLDING 10 BAR BACK PRESSURE.
+                                                                                               CONTINUED CIRCULATING HOLE CLEAN.  SLUGGED PIPE.
+                                           RAN 10 3/4" CASING HANGER AND LANDING STRING. LANDED HANGER AT 2140 HRS WITH 9 5/8" SHOE AT 3569,3 M
+                                                               CIRCULATED WELL, REDUCED MW FROM 1,60 TO 1,55 SG. TREATED MUD FOR MUD PROPERTIES
+                                              CONTINUED DRILLING/SURVEYING 8 1/2" HOLE TO 3797M: STEERED FROM 3763 TO 3767M AND 3769M TO 3779M.
+        DRILLED/SURVEYED 8 1/2" HOLE FROM 3797M TO 3873M: STEERED FROM 3797M TO 3799M AND FROM 3815M TO 3827M. ATTEMPTED STEERING AT 3869M, NEG
+                                WIPER TRIP TO 3546M. ROTATED PIPE IN SLIPS ON FIRST 8 CONNECTIONS DUE TO TENDENCIES OF STICKING. NO TIGHT HOLE.
+                                                                                                                      RAN IN TO 3873M, NO FILL.
+                                                                                               R/D 10 3/4" CASING EQUIP AND R/U 6 5/8" DP EQUIP
+                                                                 DRILLED/SURVEYED 8 1/2" HOLE FROM 3873M TO 3877M. STEERED FROM 3875M TO 3876M.
+                                             FLUSHED K/C-LINES. VERIFIED OPEN PERFORATIONS BY INJECTING MUD WITH CEMENT PUMP AGAINST SHEAR RAM.
+   M/U ALPHA CEMENT RETAINER.  HUNG UP AT 34 M.  WORKED RETAINER THROUGH RESTRICTION. RAN IN TO 1700M. ROTATED 1-2 REVOLUTIONS TO THE LEFT EACH
+                                                                                                          CONT. RIH WITH ALPHA CEMENT RETAINER.
+                                       SET PACKER AT 3225M.  FLUSHED SURFACE LINES AND PRESSURE TESTED RETAINER DOWN ANNULUS TO 70 BAR/10 MINS.
+                                                                                                                 M/U CORE BARREL AND CORE HEAD.
+    ATTEMPTED TO RELEASE RUNNING TOOL, NEGATIVE.  INCREASED OVERPULL IN STEPS UP TO 40 TONS. ROTATED STRING WITH OVERPULL.  WHILE ROTATING, RED
+                                                                                           CONT. POOH WITH GUNS. ALL SHOTS FIRED. R/D WIRELINE.
+                                                                                                    RIH WITH 10 3/4" CASING FROM 3390 TO 3442 M
+                                                                                                           RETRIEVED DRILLSTRING FROM WELLHEAD.
+                                                  REPLACED 9 5/8" CSG EQUIP WITH 10 3/4" CSG EQUIP. M/U X-OVER HELD OPERATION MEETING WITH CREW
+                                                                                                    POOH.  BROKE BIT.  L/D MWD AND STABILIZERS.
+                                                ENGAGED TAM-PACKER. BROKE CIRCULATION GENTLY, CIRCULATED WHILE WOW. PREPARED 10 3/4" CSG EQUIP.
+                                                                                                        CONT RUNNING CASING FROM 3228 TO 3390 M
+                                                                                                          DISPLACED RISER BACK TO 1.6 S.G. MUD.
+                                                              CONT RUNNING 9 5/8" CASING  FROM 2747 TO 3228 M HELD OPERATION MEETING WITH CREW.
+                                                                                                        CONT RUNNING CASING FROM 2210 TO 2747 M
+                                                                             PULLED CABLE OUT OF HOLE. ( CABLE BROKE AT WEEKPOINT AS INTENDED.)
+                                                                                RIGGED DOWN ATLAS WIRELINE AND PREPARED TO POOH WITH DRILLPIPE.
+                                                                                       POOH WITH OVERSHOT AND LOGGING TOOLS FROM 3512M TO 900M.
+                                                                                                CONTINUED POOH WITH OVERSHOT AND LOGGING TOOLS.
+                                                   RECOVERED TOOLSTRING FROM OVERSHOT. REMOVED RADIOACTIVE SOURCES AND LAID DOWN LOGGING TOOLS.
+                                                                        RIGGED DOWN ATLAS WIRELINE, RE-ARRANGED SET-BACK AND CLEARED RIG FLOOR.
+                                              MADE UP 8 1/2" CLEAN-OUT ASSEMBLY AND RIH TO 4630M. BROKE CIRCULATION AND FILLED PIPE EVERY 850M.
+                                       BROKE CIRCULATION. TAGGED BOTTOM AT 4641M, CIRCULATED AND CONDITIONED MUD PRIOR TO POOH, TO RUN 7" LINER
+                                                                                                                          POOH TO RUN 7" LINER.
+                          STUNG INTO RETAINER AND CONFIRMED INJECTIVITY. PULLED OUT OF RETAINER WHILE PUMPING TO VERIFY PROPER FUNCTIONING, OK.
+                                                                                                             POSITIONED RIG BACK OVER TEMPLATE.
+                                                                                               RE-CHECKED PERFORATIONS BY INJECTING 0,5 M3 MUD.
+                                   HESITATION SQUEEZED 1,0 M3 CEMENT SLURRY. STINGED OUT OF RETAINER.  PUMPED 0,5 M3 MUD. PULLED BACK TO 3210M.
+   INSTALLED CEMENT HOSE. FLUSHED/PRESSURE TESTED SURFACE LINES TO 345 BAR/5 MINS. PUMPED 3,0 M3 UNWEIGHED SPACER.  MIXED AND PUMPED 7,5 M3 1,9
+                RAN SHOE JNT, 1 CSG JNT AND FLOAT JNT, CHECKED FLOAT. THREAD LOCKED SHOE JNT AND FLOAT JNT TO INTERMEDITATE JNT. RAN 9 5/8" CSG
+                                                                        R/U TO RUN 9 5/8" CASING, INST TAM TOOL. HELD PRE-JOB MEETING WITH CREW
+                                                                                                                     REPAIRED UPPER RACKING ARM
+                 CONT POOH WITH 12 1/4" BIT FROM 3480 M. BACKREAMED FROM 3030 TO 2990 M FLOWCHECKED AT 2350 AND 1475 M. L/D BIT AND BHA, DUMPED
+                                                                                      FLOWCHECKED 10 MIN, POOH TO RUN 9 5/8" CASING, AT 3480 M.
+                                                                                             WAITED ON WEATHER TO PULL BOP THROUGH SPLASH ZONE.
+                                                                                                         CONTINUED CLEANING RIG FLOOR AND PITS.
+                        CLEANED RIG FLOOR. HELD MEETING ON RIG FLOOR WITH PERSONEL INVOLVED IN BHA RUNNING OPERATION. PREPARED TO RUN TCP GUNS.
+                                                                   RIH FROM 1343M TO 3141M. WORKED TIGHT SPOT AT 2980M. REAMED LAST STAND TO TD
+                                                                                                       PULLED BOP TO 29M,  L/D RISER PUP JOINT.
+         PULLED OUT TO 4133M, WORKED AREA FROM 4133M TO 4103M WITH SCRAPER AND RAN BACK IN HOLE TO 4562M. WORKED SCRAPER BY RECIPROCATING AND R
+                                                                        DISCONNECTED KILL- AND CHOKE HOSES AND RUCKER LINES. PULLED BOP TO 33M.
+                                                                                                                   PULLED RIG 25M OFF LOCATION.
+                                                                                                                      BACKLOADED PETROFREE MUD.
+                                                                                                             POOH AND LAID DOWN TESTING STRING.
+                                                                  CLOSED FLOW HEAD WING VALVE AND CHOKE MANIFOLD.  OPENED FLOW HEAD KILL VALVE.
+                                                                                                             POOH AND LAID DOWN TESTING STRING.
+                                                                                                                SLIPPED AND CUT 32M DRILL LINE.
+                                                                                  WELL SHUT-IN AT LPR-N VVALVE AND CHOKE MANIFOLD FOR BUILD-UP.
+                                                                                   WELL SHUT INN ON LPR-N AND CHOKE MANIFOLD FOR MAIN BUILD-UP.
+                                                              BLED OFF GAS FROM TEST TUBING THROUGH CHOKE MANIFOLD TO BURNER UNTIL WHP BELOW 10
+                                                                                      CONT RIH WITH 4 1/2" PH-4 TEST TUBING FROM 3097 TO 3751 M
+                                                                                                             INSTALLED X-OVER ON TEST STANDPIPE
+                                                                                       CONT RIH WITH 4 1/2" PH4 TEST TUBING FROM 3055 TO 3097 M
+                                                                                P/U FLOWHEAD AND M/U TO ONE SINGLE 4 1/2" PH-4 TUBING, L/D SAME
+                                                     CONT RIH WITH 4 1/2" PH-6 TEST TUBING FROM 1501 TO 3055 M. FILLED STRING WITH 1,15 SG BRIN
+                                                                   SERVICE BROKE AND LAID DOWN EZ-TREE. CLEARED DRILL FLOOR OF TESTING EQUIMENT
+                                                                                 P/U 2 EACH 6 1/2" DRILL COLLARS.  RIH WITH BHA NO.21 TO 3641M.
+                                                                                                   CONT RIH WITH TEST TUBING FROM 550 TO 1401 M
+                                                                      SERVICE BROKE AND LAID DOWN LUB.VALVE. POOH AND LAID DOWN LANDING STRING.CONTINUED DRILLING 12 1/4" HOLE FROM 2241M TO 2357M: STEERED FROM 2242M TO 2248M (DIRECTION 120 DEGREES RIGHT).
+                                                          BACK-REAMED FROM 2502M TO 13 3/8" SHOE AS PRECAUTION.
+                                                                                          CIRCULATED BOTTOMS UP
+   DRILLED/SURVEYED 12 1/4" HOLE FROM 2357M TO 2502M: STEERED FROM 2385M TO 2392M (DIRECTION 130 DEGREES RIGHT)
+                                                                                          CIRCULATED BOTTOMS UP

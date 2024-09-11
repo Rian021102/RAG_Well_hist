@@ -44,7 +44,7 @@ def main():
     # Split text into chunks 
     loader=TextLoader("/Users/rianrachmanto/miniforge3/project/RAG_Drill_Report/data/remark_test_02.txt")
     docs=loader.load()
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=2048, chunk_overlap=30)
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=512, chunk_overlap=10)
     documents = text_splitter.split_documents(docs)
     embeddings = OllamaEmbeddings(model="nomic-embed-text")
     db = Chroma.from_documents(documents=documents, embedding=embeddings,persist_directory='/Users/rianrachmanto/miniforge3/project/RAG_Drill_Report/Chroma_DB')

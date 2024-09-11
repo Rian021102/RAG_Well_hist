@@ -1,26 +1,20 @@
 from langchain_community.document_loaders import TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.chains.combine_documents import create_stuff_documents_chain
-from langchain_core.prompts import ChatPromptTemplate
-from langchain.chains import create_retrieval_chain
 from langchain_community.vectorstores import Chroma
 from langchain_community.embeddings import OllamaEmbeddings
-import ollama
-from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_community.embeddings import OllamaEmbeddings
-from langchain_community.vectorstores import FAISS
 from langchain_community.chat_models import ChatOllama
 from langchain.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
-
+import time
+import pandas as pd
 def loader_text(path):
     loader = TextLoader(path)
     docs = loader.load()
     return docs
 
 def split_text(docs):
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=2048, chunk_overlap=30)
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=512, chunk_overlap=10)
     documents = text_splitter.split_documents(docs)
     return documents
 
@@ -64,6 +58,7 @@ def format_docs(docs):
     return "\n\n".join(doc.page_content for doc in docs)
 
 def main():
+    start_time = time.time()
     path="/Users/rianrachmanto/miniforge3/project/RAG_Drill_Report/data/remark.txt"
     docs = loader_text(path)
     documents = split_text(docs)
@@ -73,9 +68,10 @@ def main():
     local_model = "llama3.1"
     llm = create_llm(local_model)
     rag_chain = create_rag_chain(retriever, llm)
-    question = "List all the problem during drilling?"
+    question = "Create table of all problems identified during drilling"
     print(question)
     print(rag_chain.invoke(question))
+    print("--- %s seconds ---" % (time.time() - start_time))
 
 if __name__ == "__main__":
     main()
